@@ -1,0 +1,1561 @@
+{
+  "repo": "awesome-flux-3-max-videos",
+  "project": "sunomv",
+  "kind": "video",
+  "title": "Awesome FLUX 3 Max Videos",
+  "titleZh": "FLUX 3 Max 视频作品精选",
+  "description": "A curated collection of FLUX 3 Max (fal × Black Forest Labs) videos shared on X — short films, anime, music & dance, voices, prompt-to-3D motion and same-prompt model comparisons — with original files, creator credits and verbatim public prompts.",
+  "descriptionZh": "收集 X 上的 FLUX 3 Max（fal × Black Forest Labs）视频作品：短片、动画、音乐与舞蹈、配音对白、提示词转 3D 动作，以及同提示词模型对比；附原视频文件、创作者署名和公开的原文提示词。",
+  "model": "FLUX 3 Max",
+  "collectedOn": "2026-10-24",
+  "publicationCutoffUtc": "2026-10-19T18:00:00Z",
+  "maxDurationSeconds": 120,
+  "topics": [
+    "flux",
+    "flux-3-max",
+    "black-forest-labs",
+    "fal",
+    "ai-video",
+    "text-to-video",
+    "image-to-video",
+    "ai-music-video",
+    "sunomv"
+  ],
+  "site": {
+    "name": "SunoMV",
+    "host": "suno.bi",
+    "landingUrl": "https://suno.bi/ai-music-video-generator",
+    "landingUrlZh": "https://suno.bi/zh/ai-music-video-generator",
+    "cta": "Turn your song into a music video with FLUX 3 Max on SunoMV",
+    "ctaZh": "在 SunoMV 用 FLUX 3 Max 把你的歌做成 MV"
+  },
+  "mediaHosts": [
+    "bibigpt-apps.chatvid.ai"
+  ],
+  "categories": [
+    {
+      "id": "official",
+      "en": "Official launch",
+      "zh": "官方发布"
+    },
+    {
+      "id": "music",
+      "en": "Music, dance & MV",
+      "zh": "音乐、舞蹈与 MV"
+    },
+    {
+      "id": "story",
+      "en": "Short films & stories",
+      "zh": "短片与故事"
+    },
+    {
+      "id": "cinematic",
+      "en": "Cinematic & photoreal",
+      "zh": "电影感与写实"
+    },
+    {
+      "id": "anime",
+      "en": "Anime & illustration",
+      "zh": "动画与插画"
+    },
+    {
+      "id": "voice",
+      "en": "Voices & dialogue",
+      "zh": "配音与对白"
+    },
+    {
+      "id": "3d",
+      "en": "Prompt-to-3D motion",
+      "zh": "提示词转 3D 动作"
+    },
+    {
+      "id": "comparison",
+      "en": "Model comparisons",
+      "zh": "模型对比"
+    }
+  ],
+  "entries": [
+    {
+      "id": "bfl-ai-328415",
+      "title": "FLUX 3 Max Launch Reel",
+      "titleZh": "FLUX 3 Max 官方发布短片",
+      "category": "official",
+      "author": {
+        "name": "Black Forest Labs",
+        "handle": "bfl_ai",
+        "url": "https://x.com/bfl_ai"
+      },
+      "sourceUrl": "https://x.com/bfl_ai/status/2112255353677328415",
+      "publishedAt": "2026-10-19T18:51:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112255353677328415-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112255353677328415-video.mp4",
+      "durationSeconds": 15.47,
+      "note": "Post: Introducing FLUX 3 Max.  Fastest in the west. Fast enough to try anything. And everything.  Generate a 10-second video in 12 seconds.  Tied for #1 in image-to-video. 22× faster than Seedance 2.5 at the same quality.  FLUX 3 is a model designed for customization. @fal adapted and"
+    },
+    {
+      "id": "blendibyl-891127",
+      "title": "Prompt to 3D Character with Finger Tracking",
+      "titleZh": "提示词生成 3D 角色动画（含手指追踪）",
+      "category": "3d",
+      "author": {
+        "name": "Blendi",
+        "handle": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "sourceUrl": "https://x.com/BlendiByl/status/2112810543748891127",
+      "publishedAt": "2026-10-21T07:37:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112810543748891127-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112810543748891127-video.mp4",
+      "durationSeconds": 32.18,
+      "note": "Post: Prompt to 3D character animation, now with high fidelity hand + finger tracking✌️  FLUX 3 Max video → WiLoR for hands + GVHMR for body tracking → any animated character!  open source:"
+    },
+    {
+      "id": "blendibyl-259567",
+      "title": "Realtime Prompt-to-Mixamo Animation",
+      "titleZh": "实时提示词转 Mixamo 动画",
+      "category": "3d",
+      "author": {
+        "name": "Blendi",
+        "handle": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "sourceUrl": "https://x.com/BlendiByl/status/2112316682224259567",
+      "publishedAt": "2026-10-19T22:55:16Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112316682224259567-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112316682224259567-video.mp4",
+      "durationSeconds": 49.92,
+      "note": "Post: Prompt → animation at realtime speed 🕺  FLUX 3 Max generates the video, GVHMR pulls clean 3D motion from it on one GPU, and it's retargeted live onto any mixamo character. Fully automated flow!  Open source:"
+    },
+    {
+      "id": "stefan-3d-ai-925933",
+      "title": "Prompt2Rig: Type a Motion, Get a Rig",
+      "titleZh": "Prompt2Rig：输入动作得到绑定动画",
+      "category": "3d",
+      "author": {
+        "name": "Stefan 3D AI",
+        "handle": "Stefan_3D_AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "sourceUrl": "https://x.com/Stefan_3D_AI/status/2112507522510925933",
+      "publishedAt": "2026-10-20T11:33:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-video.mp4",
+      "durationSeconds": 49.97,
+      "note": "Post: Type a Motion, Get a Mixamo Animation in Seconds  Prompt2Rig turns your prompt into a video with a fast model on fal, recovers the 3D motion with GVHMR on your GPU and retargets it live onto a Mixamo rig.  Highlights: • H3 Max Turbo or FLUX 3 Max for the video • Live preview first, clean GVHMR pass in ~4 s • Finger tracking and any Mixamo FBX/GLB • Stream mode chains prompts into one take • GLB export for Blender, Unity, three.js  GitHub:  https:// github.com/blendi-remade/ prompt2rig …"
+    },
+    {
+      "id": "aiwarper-161405",
+      "title": "Keyframes-to-Video Steaming Bowls",
+      "titleZh": "关键帧转视频：热气腾腾的碗",
+      "category": "cinematic",
+      "author": {
+        "name": "A.I.Warper",
+        "handle": "AIWarper",
+        "url": "https://x.com/AIWarper"
+      },
+      "sourceUrl": "https://x.com/AIWarper/status/2113107375272161405",
+      "publishedAt": "2026-10-22T03:17:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113107375272161405-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113107375272161405-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: This FLUX 3 Max Keyframes to Video is pretty good  This is cost.. $0.60 🤔"
+    },
+    {
+      "id": "framer-x-440386",
+      "title": "Tokyo Scooter Ride in 12 Seconds",
+      "titleZh": "12 秒生成的东京骑行",
+      "category": "cinematic",
+      "author": {
+        "name": "Framer 🇱🇹",
+        "handle": "Framer_X",
+        "url": "https://x.com/Framer_X"
+      },
+      "sourceUrl": "https://x.com/Framer_X/status/2112452547126440386",
+      "publishedAt": "2026-10-20T07:55:09Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112452547126440386-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112452547126440386-video.mp4",
+      "durationSeconds": 10.09,
+      "note": "Post: 22x faster video generation than Seedance 2.5 😭😭  This 10-second video (below) took just 12 seconds to generate!  FLUX 3 Max is actually insane.  You can now try it on @fal!"
+    },
+    {
+      "id": "ozansihay-317089",
+      "title": "Anatolian Village Camcorder Interviews",
+      "titleZh": "安纳托利亚乡村家用摄像机采访",
+      "category": "voice",
+      "author": {
+        "name": "Ozan Sihay",
+        "handle": "ozansihay",
+        "url": "https://x.com/ozansihay"
+      },
+      "sourceUrl": "https://x.com/ozansihay/status/2112294040595317089",
+      "publishedAt": "2026-10-19T21:25:18Z",
+      "prompt": "Amateur home-video footage shot on an old consumer handycam camcorder in a small traditional village in rural Central Anatolia, Turkey, on a sunny late afternoon. Five separate short scenes with hard cuts between them, as if a villager's relative is filming everyone with a handheld camcorder. Amateur camera style throughout: shaky handheld movement, sudden clumsy zoom-ins and zoom-outs, autofocus hunting and brief de-focus moments that snap back into focus, slight overexposure from the sun, slightly soft camcorder image quality, imperfect framing. Setting: stone and mud-brick houses, wooden doors, dusty lanes, a village coffeehouse, a tandır oven, chickens and a few sheep, poplar trees and golden hills in the background. Natural, authentic, humorous documentary feel, photorealistic.\n\nScene 1 (0-4s): An old mustached man in a flat cap sitting on a wooden bench in front of the coffeehouse with a tea glass, the camera zooms in clumsily on him, he looks into the camera and says in Turkish with a strong, warm Anatolian village accent: \"Ula gardaş, bu yeni yapay zeka videoyu bi göz açıp kapayınca yapıveriyo!\"\n\nScene 2 (4-8s): Cut to a middle-aged woman in a floral headscarf kneading dough next to a tandır oven, the focus briefly blurs then sharpens, she laughs and says: \"Ben daha hamuru yoğurmadan, o videoyu bitirivemiş!\"\n\nScene 3 (8-12s): Cut to a young shepherd with a staff standing beside a few sheep on a dusty slope, the camera zooms out shakily, he says: \"Goyunları ağıla sokana gadar on tane video çıkarıveriyo!\"\n\nScene 4 (12-16s): Cut to an elderly grandmother in a white headscarf sitting on her doorstep by a wooden door, the camera zooms in fast and refocuses, she raises her hands and says: \"Bizim zamanımızda böyle hız mı vardı, maşallah!\"\n\nScene 5 (16-20s): Cut to a young man leaning on a red tractor, he grins, points at the camera and says: \"Eee, ne duruyonuz? Siz de deneyivirin!\" The camera wobbles and zooms in on his grin.\n\nAudio: clear Turkish speech with rural Anatolian dialect for each speaker, slight camcorder microphone handling noise, ambient village sounds, roosters, distant sheep bells, light wind. No subtitles, no on-screen text, no timestamp overlay.",
+      "promptSourceUrl": "https://x.com/ozansihay/status/2112294040595317089",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: FLUX 3 Max ile bir deneme. Türkçe köy şivesi denemesi, 20 saniye 720p, Üretim süresi 51 saniye, maliyet 0.85 $  @fal  (tanıtım)  Prompt: Amateur home-video footage shot on an old consumer handycam camcorder in a small traditional village in rural Central Anatolia, Turkey, on a sunny late afternoon. Five separate short scenes with hard cuts between them, as if a villager's relative is filming everyone with a handheld camcorder. Amateur camera style throughout: shaky handheld movement, sudden clumsy zoom-ins and zoom-outs, autofocus hunting and brief de-focus moments that snap back into focus, slight overexposure from the sun, slightly soft camcorder image quality, imperfect framing. Setting: stone and mud-brick houses, wooden doors, dusty lanes, a village coffeehouse, a tandır oven, chickens and a few sheep, poplar trees and golden hills in the background. Natural, authentic, humorous documentary feel, photorealistic.  Scene 1 (0-4s): An old mustached man in a flat cap sitting on a wooden bench in front of the coffeehouse with a tea glass, the camera zooms in clumsily on him, he looks into the camera and says in Turkish with a strong, warm Anatolian village accent: \"Ula gardaş, bu yeni yapay zeka videoyu bi göz açıp kapayınca yapıveriyo!\"  Scene 2 (4-8s): Cut to a middle-aged woman in a floral headscarf kneading dough next to a tandır oven, the focus briefly blurs then sharpens, she laughs and says: \"Ben daha hamuru yoğurmadan, o videoyu bitirivemiş!\"  Scene 3 (8-12s): Cut to a young shepherd with a staff standing beside a few sheep on a dusty slope, the camera zooms out shakily, he says: \"Goyunları ağıla sokana gadar on tane video çıkarıveriyo!\"  Scene 4 (12-16s): Cut to an elderly grandmother in a white headscarf sitting on her doorstep by a wooden door, the camera zooms in fast and refocuses, she raises her hands and says: \"Bizim zamanımızda böyle hız mı vardı, maşallah!\"  Scene 5 (16-20s): Cut to a young man leaning on a red tractor, he grins, points at the camera and says: \"Eee, ne duruyonuz? Siz de deneyivirin!\" The camera wobbles and zooms in on his grin.  Audio: clear Turkish speech with rural Anatolian dialect for each speaker, slight camcorder microphone handling noise, ambient village sounds, roosters, distant sheep bells, light wind. No subtitles, no on-screen text, no timestamp overlay."
+    },
+    {
+      "id": "nbykos-284129",
+      "title": "Anime Girls by a Painted Wall",
+      "titleZh": "彩绘墙前的动画少女",
+      "category": "cinematic",
+      "author": {
+        "name": "NOBU",
+        "handle": "nbykos",
+        "url": "https://x.com/nbykos"
+      },
+      "sourceUrl": "https://x.com/nbykos/status/2112362157367284129",
+      "publishedAt": "2026-10-20T01:55:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112362157367284129-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112362157367284129-video.mp4",
+      "durationSeconds": 12.93,
+      "note": "Post: Flux 3 Max"
+    },
+    {
+      "id": "captainhahaa-327970",
+      "title": "Echoes of the Strange",
+      "titleZh": "《奇异回响》",
+      "category": "story",
+      "author": {
+        "name": "Captain HaHaa",
+        "handle": "CaptainHaHaa",
+        "url": "https://x.com/CaptainHaHaa"
+      },
+      "sourceUrl": "https://x.com/CaptainHaHaa/status/2112514348971327970",
+      "publishedAt": "2026-10-20T12:00:44Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112514348971327970-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112514348971327970-video.mp4",
+      "durationSeconds": 25.19,
+      "note": "Post: First quick little test with FLUX 3 Max I've gotta say I like it, it's fast!.   Revisiting an old idea with this one.   \"Echoes of the Strange\"  Special thanks to @fal for the credits 🫡"
+    },
+    {
+      "id": "captainhahaa-057516",
+      "title": "That's Not a Heart, That's a Countdown",
+      "titleZh": "那不是心跳，是倒计时",
+      "category": "story",
+      "author": {
+        "name": "Captain HaHaa",
+        "handle": "CaptainHaHaa",
+        "url": "https://x.com/CaptainHaHaa"
+      },
+      "sourceUrl": "https://x.com/CaptainHaHaa/status/2112802171079057516",
+      "publishedAt": "2026-10-21T07:04:26Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112802171079057516-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112802171079057516-video.mp4",
+      "durationSeconds": 34.3,
+      "note": "Post: That's not a heart that's a countdown ⏳  Flux 3 Max test"
+    },
+    {
+      "id": "captainhahaa-695121",
+      "title": "DrayKar the Destroyer Looks for His Key",
+      "titleZh": "毁灭者 DrayKar 找钥匙",
+      "category": "story",
+      "author": {
+        "name": "Captain HaHaa",
+        "handle": "CaptainHaHaa",
+        "url": "https://x.com/CaptainHaHaa"
+      },
+      "sourceUrl": "https://x.com/CaptainHaHaa/status/2112565948049695121",
+      "publishedAt": "2026-10-20T15:25:46Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112565948049695121-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112565948049695121-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: DrayKar the Destroyer has a plan he just needs to find his key.  Flux 3 Max test through @fal"
+    },
+    {
+      "id": "oguzhankayancom-855755",
+      "title": "Turkish Village Grandmothers Talk AI",
+      "titleZh": "土耳其乡村奶奶聊 AI",
+      "category": "voice",
+      "author": {
+        "name": "Oğuzhan ✷",
+        "handle": "oguzhankayancom",
+        "url": "https://x.com/oguzhankayancom"
+      },
+      "sourceUrl": "https://x.com/oguzhankayancom/status/2112309994376855755",
+      "publishedAt": "2026-10-19T22:28:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112309994376855755-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112309994376855755-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: Bugün @fal ekibi Flux 3 Max modelini yayına aldı. Türkçe telaffuzlarda bu kadar tutarlı çalışacağını hiç düşünmezdim.  @ozansihay'ın paylaşımını gördükten sonra kısa bir deneme yapmak istedim.  Sonuç inanılmaz."
+    },
+    {
+      "id": "miramusic-ai-015766",
+      "title": "Japanese-Style Opening MV",
+      "titleZh": "和风曲开场 MV",
+      "category": "music",
+      "author": {
+        "name": "MiraMusic",
+        "handle": "MiraMusic_AI",
+        "url": "https://x.com/MiraMusic_AI"
+      },
+      "sourceUrl": "https://x.com/MiraMusic_AI/status/2113264109534015766",
+      "publishedAt": "2026-10-22T13:40:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113264109534015766-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113264109534015766-video.mp4",
+      "durationSeconds": 30.86,
+      "note": "Post: 🎯雰囲気だけはカッコいい和BGM  Opus5.5×falai×FLUX3Max  ◆お願いしたこと  ”和風曲の冒頭30秒のカッコいい和風テイストのMV作って。  素材は○○にあるから適当にFLUX3Maxで作っちゃって！ premiereで編集よろしく！ 曲調に合わせて気持ちよくなれる高速カット。 いつも使ってるskillも参照でっ！”"
+    },
+    {
+      "id": "mattworkman-256328",
+      "title": "Skate-Video Style Short Film",
+      "titleZh": "滑板片风格短片",
+      "category": "story",
+      "author": {
+        "name": "Matt Workman",
+        "handle": "mattworkman",
+        "url": "https://x.com/mattworkman"
+      },
+      "sourceUrl": "https://x.com/mattworkman/status/2112334657589256328",
+      "publishedAt": "2026-10-20T00:06:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112334657589256328-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112334657589256328-video.mp4",
+      "durationSeconds": 89.72,
+      "note": "Post: I made a short film inspired by the events in France to test FLUX 3 Max  kind of filmed it like a skate video"
+    },
+    {
+      "id": "rehan-shei-832513",
+      "title": "Motion2MixamoRig Text to Animation",
+      "titleZh": "Motion2MixamoRig 文本转动画",
+      "category": "3d",
+      "author": {
+        "name": "Rehan Sheikh",
+        "handle": "rehan_shei",
+        "url": "https://x.com/rehan_shei"
+      },
+      "sourceUrl": "https://x.com/rehan_shei/status/2112352648959832513",
+      "publishedAt": "2026-10-20T01:18:11Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112352648959832513-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112352648959832513-video.mp4",
+      "durationSeconds": 27.03,
+      "note": "Post: Motion2MixamoRig + @fal Flux 3 Max = real-time high quality text to animation!"
+    },
+    {
+      "id": "fabianstelzer-091281",
+      "title": "Time-Travelling Navegadores in Portugal",
+      "titleZh": "穿越到葡萄牙渔港的大航海水手",
+      "category": "cinematic",
+      "author": {
+        "name": "fabian",
+        "handle": "fabianstelzer",
+        "url": "https://x.com/fabianstelzer"
+      },
+      "sourceUrl": "https://x.com/fabianstelzer/status/2112575063195091281",
+      "publishedAt": "2026-10-20T16:01:59Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112575063195091281-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112575063195091281-video.mp4",
+      "durationSeconds": 26.17,
+      "note": "Post: in a fishing town in Portugal, imagining a group of time traveling Navegadores freaking out about the modern day shoreline   Flux 3 Max with the glif agent does excellent iPhone style footage"
+    },
+    {
+      "id": "egebese-584907",
+      "title": "Mobile Game Ads from a Single Frame",
+      "titleZh": "一张图生成手游广告",
+      "category": "cinematic",
+      "author": {
+        "name": "Ege Beşe",
+        "handle": "egebese",
+        "url": "https://x.com/egebese"
+      },
+      "sourceUrl": "https://x.com/egebese/status/2112650138661584907",
+      "publishedAt": "2026-10-20T21:00:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112650138661584907-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112650138661584907-video.mp4",
+      "durationSeconds": 35.05,
+      "note": "Post: single image and outputs are crazy with flux 3 max"
+    },
+    {
+      "id": "umesh-ai-611430",
+      "title": "Yellow Rain Boots Horror Sequence",
+      "titleZh": "黄雨靴夜林恐怖短片",
+      "category": "cinematic",
+      "author": {
+        "name": "Umesh",
+        "handle": "umesh_ai",
+        "url": "https://x.com/umesh_ai"
+      },
+      "sourceUrl": "https://x.com/umesh_ai/status/2112275364806611430",
+      "publishedAt": "2026-10-19T20:11:05Z",
+      "prompt": "Prompt (I2V) : Create a dark, photorealistic cinematic horror sequence using the reference image as the opening shot. The mood should be beautiful, eerie, mysterious, and quietly disturbing — grounded, naturalistic horror rather than gothic or fantasy. The scene should feel like something impossible is happening in a real forest at night.\n\nOPENING IMAGE\n\nBegin with two glossy yellow rain boots standing alone on a muddy, puddled forest path at night. The path is framed by wet grass and swallowed by darkness in the distance. The lighting is low, cold, and moody, with deep blue-black tones, faint reflections in the puddles, and just enough light to catch the shine of the boots and the wet ground.\n\nThe camera starts low and close to the ground, positioned behind the boots.\n\nEverything is still.\n\nRain falls softly. Tiny ripples move across the puddles. The forest is silent.\n\nAfter a brief pause, one boot slowly lifts on its own.\n\nThen the other follows.\n\nThe boots begin walking away from the camera, moving forward down the path with their fronts facing into the darkness ahead, as if an invisible woman is already wearing them. The camera watches from behind as they take slow, deliberate steps farther away. Each footstep lands with natural weight, softly splashing through shallow water and pressing into the mud. The movement should feel graceful, realistic, and unsettling.\n\nTHE FORMING FIGURE\n\nAs the boots continue walking away from the camera, a female figure begins to form above them. She must already be clothed from the start of the transformation.\n\nA dark dress begins appearing immediately above the boots as a vague moving silhouette, already covering the form as it develops. The clothing becomes gradually more solid and detailed while she walks: wet fabric, soft folds, long sleeves, a simple natural drape. It should feel understated, realistic, and elegant — not gothic, ornate, or theatrical.\n\nAs the camera slowly rises, more of the woman becomes visible within the already-formed clothing: her body, shoulders, neck, hair, and finally her face. The transformation should feel seamless and uncanny, as if she is condensing out of shadow, mist, and rain while continuing to walk. No glowing effects, no fantasy particles, no stylized magic.\n\nCAMERA MOVEMENT\n\nThe sequence should play as one smooth, unbroken cinematic shot.\n\nAt first, the camera follows from behind at a low angle, watching the boots walk away down the path. Then it slowly cranes upward, rising above and behind her while continuing to track her movement. As it ascends, it reveals more of her fully formed figure, with the yellow boots still visible beneath the hem of the dress.\n\nBy the time the camera reaches a high overhead angle, the woman is fully formed and still walking away into the darkness.\n\nTHE TURN\n\nFrom above, the camera slowly pushes in.\n\nAs it gets closer, the woman seems to sense it.\n\nShe slows slightly, then turns her head first, then her shoulders, and finally enough of her body to look back up toward the camera. The turn should feel calm, graceful, and deliberate.\n\nWhen she looks up, we see her face clearly.\n\nShe is naturally beautiful and fully human, with wet hair, pale skin touched by cold night light, and calm, realistic features. Nothing grotesque or monstrous. But there is something faintly unnerving in her stillness and in the way she looks directly at the camera.\n\nAs the camera continues to zoom in from above, she gives a soft, beautiful smile.\n\nThe smile should look normal and human — subtle, elegant, and controlled — but also slightly unsettling the longer we look at it. It should feel warm on the surface, yet unreadable underneath. Her eyes remain fixed on the camera, calm and knowing.\n\nFINAL FEELING\n\nEnd on the image of her looking upward, smiling softly in the middle of the wet forest path at night. The yellow boots remain visible as an important anchor to the original image. The final feeling should be mysterious, beautiful, and quietly unnerving.\n\nSOUND AND MUSIC\n\nUse sparse atmospheric sound: soft rain, distant wind, subtle forest ambience, and the wet sound of rubber boots stepping into mud. As the boots begin moving on their own, introduce a very low dark drone. Add faint minimal strings, distant reversed textures, and soft eerie tonal layers. Keep it elegant and restrained.\n\nWhen she turns and looks up, reduce the sound slightly to create a sense of suspended stillness.\n\nAs the camera zooms in and she smiles, let a delicate but unsettling musical note emerge beneath the rain.\n\nNo dialogue. No scream. No harsh stinger. End on mystery.\n\nEMOTIONAL ARC\n\nstillness → curiosity → unease → fascination → quiet dread",
+      "promptSourceUrl": "https://x.com/umesh_ai/status/2112275370045268380",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: One of my first tests with Flux 3 Max on fal!  Very cool.  Prompt ⤵️"
+    },
+    {
+      "id": "jfischoff-937152",
+      "title": "Prompt 1980s Hard Enough, Get a Saxophone",
+      "titleZh": "1980 年代味道够浓就会出萨克斯",
+      "category": "music",
+      "author": {
+        "name": "Jonathan Fischoff",
+        "handle": "jfischoff",
+        "url": "https://x.com/jfischoff"
+      },
+      "sourceUrl": "https://x.com/jfischoff/status/2112417545986937152",
+      "publishedAt": "2026-10-20T05:36:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112417545986937152-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112417545986937152-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: If you prompt Flux 3 Max with 1980s hard enough it just adds a saxophone"
+    },
+    {
+      "id": "miramusic-ai-218577",
+      "title": "Text-to-Video with Mirelo Studio Sound",
+      "titleZh": "FLUX 3 Max × Mirelo Studio 配乐",
+      "category": "music",
+      "author": {
+        "name": "MiraMusic",
+        "handle": "MiraMusic_AI",
+        "url": "https://x.com/MiraMusic_AI"
+      },
+      "sourceUrl": "https://x.com/MiraMusic_AI/status/2112818564080218577",
+      "publishedAt": "2026-10-21T08:09:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112818564080218577-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112818564080218577-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: FLUX3Max＆Mirelo Studio テキスト→動画、20秒、720p（1280×704）約$0.85"
+    },
+    {
+      "id": "misslaidlaw-259539",
+      "title": "1985 Horror Trailer: Frames",
+      "titleZh": "1985 恐怖片预告《Frames》",
+      "category": "story",
+      "author": {
+        "name": "Afro Futcha ( Diane )",
+        "handle": "misslaidlaw",
+        "url": "https://x.com/misslaidlaw"
+      },
+      "sourceUrl": "https://x.com/misslaidlaw/status/2112532213879259539",
+      "publishedAt": "2026-10-20T13:11:43Z",
+      "prompt": "1985 horror film trailer called Frames, 35mm film grain, about a demon posssed camera that takes over the town when someone takes a photo, its a blaxploitation movie, and there should be some demon  possesed zombies in it",
+      "promptSourceUrl": "https://x.com/misslaidlaw/status/2112532213879259539",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: So I am on  @fal   checking out the new Flux 3 Max model by  @bfl_ai  -    This was my simple prompt   \"1985 horror film trailer called Frames, 35mm film grain, about a demon posssed camera that takes over the town when someone takes a photo, its a blaxploitation movie, and there should be some demon  possesed zombies in it\"  and this is what it gave me.   I actually think this is super cool.  By the way this video is 20 seconds and took less than that to generate.  This is from a story that I wrote called Frames about a demon possessed camera in the 1980s that takes over a town. I wrote it back in 2023."
+    },
+    {
+      "id": "shadoweir-684931",
+      "title": "Feline Ballet at 1080p",
+      "titleZh": "猫咪芭蕾（1080p）",
+      "category": "music",
+      "author": {
+        "name": "Emery G Wilson",
+        "handle": "Shadoweir",
+        "url": "https://x.com/Shadoweir"
+      },
+      "sourceUrl": "https://x.com/Shadoweir/status/2113758042751684931",
+      "publishedAt": "2026-10-23T22:22:43Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113758042751684931-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113758042751684931-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: Nae perfect, but... close enough.   🩰  (Flux 3 Max at 1080p)   @bfl_ai   @fal"
+    },
+    {
+      "id": "itspoidaman-629689",
+      "title": "Late-Night Kitchen Security Cam",
+      "titleZh": "深夜厨房监控画面",
+      "category": "cinematic",
+      "author": {
+        "name": "Ghosty",
+        "handle": "itspoidaman",
+        "url": "https://x.com/itspoidaman"
+      },
+      "sourceUrl": "https://x.com/itspoidaman/status/2112598307629629689",
+      "publishedAt": "2026-10-20T17:34:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112598307629629689-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112598307629629689-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: Fal's flux3 max is pretty good"
+    },
+    {
+      "id": "noel-ai-lab-233053",
+      "title": "Japanese Motion Graphics Test",
+      "titleZh": "日式动态图形测试",
+      "category": "anime",
+      "author": {
+        "name": "のえる｜AI構築者",
+        "handle": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "sourceUrl": "https://x.com/noel_ai_lab/status/2112872291663233053",
+      "publishedAt": "2026-10-21T11:43:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112872291663233053-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112872291663233053-video.mp4",
+      "durationSeconds": 13.56,
+      "note": "Post: FLUX 3 Maxでモーショングラフィックスも作ってみたぁぁ！！"
+    },
+    {
+      "id": "oguzhankayancom-259981",
+      "title": "Turkish Pronunciation Showcase",
+      "titleZh": "土耳其语发音展示",
+      "category": "voice",
+      "author": {
+        "name": "Oğuzhan ✷",
+        "handle": "oguzhankayancom",
+        "url": "https://x.com/oguzhankayancom"
+      },
+      "sourceUrl": "https://x.com/oguzhankayancom/status/2112333993874259981",
+      "publishedAt": "2026-10-20T00:04:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112333993874259981-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112333993874259981-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: Flux 3 Max modeli bu fiyat/performans ile Seedance'e olan ihtiyacı bitirir.  Her seferinde vizyonunuzu ortaya koymayı başarıyorsunuz.  Tebrikler @fal 🎉"
+    },
+    {
+      "id": "mattworkman-801167",
+      "title": "The AI Weatherman Format",
+      "titleZh": "「AI 天气预报员」新形式",
+      "category": "story",
+      "author": {
+        "name": "Matt Workman",
+        "handle": "mattworkman",
+        "url": "https://x.com/mattworkman"
+      },
+      "sourceUrl": "https://x.com/mattworkman/status/2112321605401801167",
+      "publishedAt": "2026-10-19T23:14:50Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-video.mp4",
+      "durationSeconds": 71.91,
+      "note": "Post: calling this format the \"AI Weatherman\" FLUX 3 MAX is also fast AF  watch on YT:"
+    },
+    {
+      "id": "hbcoop--554777",
+      "title": "Four-Model Photoreal Prompt Test",
+      "titleZh": "四模型写实同提示词对比",
+      "category": "comparison",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "url": "https://x.com/HBCoop_"
+      },
+      "sourceUrl": "https://x.com/HBCoop_/status/2113662522230554777",
+      "publishedAt": "2026-10-23T16:03:09Z",
+      "prompt": "1. A face and a spoken line\n\nPrompt:\n\"Slow push-in on the woman leaning against the wall. She holds the camera's gaze, exhales softly through her nose, and a small knowing smile forms at one corner of her mouth. She says quietly: \"I already said yes.\" Natural daylight, real skin texture, subtle handheld breathing in the camera. Quiet room tone.\"\n\nEach pass plays a different model's audio. Seedance 2.0 held a closed-mouth smile and dropped the \"I\" from the line. The other three said the full line.\n\n2. A group laughing\n\nPrompt:\n\"Handheld camera, warm bar light. The group bursts out laughing together; the platinum-haired woman throws her head back laughing, and two friends beside her clink their glasses. People lean in, shoulders shake with laughter. Busy bar chatter, laughter, glasses clinking.\"\n\nEach pass plays a different model's audio. Kling 4.0 and Seedance 2.0 show the clearest glass clink.\n\n3. Hands handling small objects\n\nPrompt:\n\"Static camera, low-key lighting. The man's fingers riffle the stack of poker chips, then slowly slide the whole stack forward across the table. His eyes lift to the camera, expression unreadable. Chips clicking softly, quiet room.\"\n\nEach pass plays a different model's audio. Watch the chips: some models slide the stack forward, others scatter it.\n\n4. Fire and smoke in 21:9\n\nPrompt:\n\"Slow crane down into the smoke-filled city street. Flames ripple and flicker out of the building windows, glowing embers drift through the thick haze, and smoke rolls slowly between the towers. Dim headlights glow through the smoke at street level. Low roar of fire, distant sirens.\"\n\nEach pass plays a different model's audio. All four kept the yellow car and the burning windows. None made the fire roar and sirens I asked for: H3, Kling and Seedance added music, and FLUX is nearly silent.",
+      "promptSourceUrl": "https://x.com/HBCoop_/status/2113662571362590905",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113662522230554777-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113662522230554777-video.mp4",
+      "durationSeconds": 30.51,
+      "note": "Four prompts from the creator's thread (one post per test); the prompt source links to the first of them. Post: I gave FLUX 3 Max, MiniMax H3 Max Turbo, Kling 4.0 and Seedance 2.0 the same 4 photoreal stills and the same prompts: a face with a spoken line, a laughing group, hands with poker chips, and a burning street.  Full prompts & results below:"
+    },
+    {
+      "id": "isekaibardguild-862199",
+      "title": "Dance Test: FLUX 3 Max vs Fast H3",
+      "titleZh": "舞蹈对比：FLUX 3 Max vs Fast H3",
+      "category": "comparison",
+      "author": {
+        "name": "AI Bard Guild",
+        "handle": "IsekaiBardGuild",
+        "url": "https://x.com/IsekaiBardGuild"
+      },
+      "sourceUrl": "https://x.com/IsekaiBardGuild/status/2113184985049862199",
+      "publishedAt": "2026-10-22T08:25:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113184985049862199-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113184985049862199-video.mp4",
+      "durationSeconds": 15.14,
+      "note": "Post: FLUX 3 max が fal で 75% off ということで これもダンス動画で試しました  プロンプトはほぼ同じ  左: FLUX 3 MAX 右: Fast H3   FLUX キャラの一貫性とか悪くはないんですけど、ゆったりしたダンスになる傾向がありますね～  ダンスのキレの良さは FastH3 が圧倒的！  なお、どちらも10本ほど出して"
+    },
+    {
+      "id": "miramusic-ai-523991",
+      "title": "Moonlit Swordsman",
+      "titleZh": "月下剑客",
+      "category": "cinematic",
+      "author": {
+        "name": "MiraMusic",
+        "handle": "MiraMusic_AI",
+        "url": "https://x.com/MiraMusic_AI"
+      },
+      "sourceUrl": "https://x.com/MiraMusic_AI/status/2112733632947523991",
+      "publishedAt": "2026-10-21T02:32:05Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112733632947523991-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112733632947523991-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: FLUX 3 Max使ってみた 10秒で約$0.43 質感良さそう。ただOmni Referenceはまだないみたい"
+    },
+    {
+      "id": "shinayaka-today-784513",
+      "title": "Flowers for an Early Character Design",
+      "titleZh": "送给一年前角色初稿的花",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2113646524135784513",
+      "publishedAt": "2026-10-23T14:59:35Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-video.mp4",
+      "durationSeconds": 15.08,
+      "note": "Post: FLUX 3 Max  10/23 💐 1年前のしいな初期デザイン"
+    },
+    {
+      "id": "shadoweir-934290",
+      "title": "Fantasy Duet by the Lake",
+      "titleZh": "湖畔奇幻二重奏",
+      "category": "music",
+      "author": {
+        "name": "Emery G Wilson",
+        "handle": "Shadoweir",
+        "url": "https://x.com/Shadoweir"
+      },
+      "sourceUrl": "https://x.com/Shadoweir/status/2112575368007934290",
+      "publishedAt": "2026-10-20T16:03:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112575368007934290-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112575368007934290-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: Duets for the win!!! ( cameo:  @CliffWade )  1) tried it in Imagine:  MODERATED  (Imagine is useless) 2) made this in Flux 3 Max  (omg, I miss Flux so, so bad!!!)"
+    },
+    {
+      "id": "taziku-co-703517",
+      "title": "Phoenix from the Same Reference",
+      "titleZh": "同参考图生成凤凰",
+      "category": "cinematic",
+      "author": {
+        "name": "田中義弘 | taziku CEO / AI × Creative",
+        "handle": "taziku_co",
+        "url": "https://x.com/taziku_co"
+      },
+      "sourceUrl": "https://x.com/taziku_co/status/2112486305204703517",
+      "publishedAt": "2026-10-20T10:09:17Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112486305204703517-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112486305204703517-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: 昨日と同じリファレンス、同じプロンプトをベースに、鳥をフェニックスに変えて動画をFLUX 3 Maxで生成。  生成速度が速いだけでなく、細部の表現もかなり良い印象。この速度とコストのバランスは、動画生成の新たな選択肢になりそう。"
+    },
+    {
+      "id": "noel-ai-lab-353612",
+      "title": "Boyfriend-POV Café Date",
+      "titleZh": "男友视角咖啡馆约会",
+      "category": "voice",
+      "author": {
+        "name": "のえる｜AI構築者",
+        "handle": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "sourceUrl": "https://x.com/noel_ai_lab/status/2112500430924353612",
+      "publishedAt": "2026-10-20T11:05:25Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112500430924353612-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112500430924353612-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: 今日出たFLUX 3 Maxで彼氏目線のカフェ動画作ってみた！秒ごとに演技つけたら段取りっぽくなって、順番だけにしたらだいぶマシになった"
+    },
+    {
+      "id": "noel-ai-lab-017013",
+      "title": "Anime Scene with a Mismatched Voice",
+      "titleZh": "动画短片（声音串戏了）",
+      "category": "anime",
+      "author": {
+        "name": "のえる｜AI構築者",
+        "handle": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "sourceUrl": "https://x.com/noel_ai_lab/status/2112527934968017013",
+      "publishedAt": "2026-10-20T12:54:43Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112527934968017013-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112527934968017013-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: FLUX 3 Maxでアニメも作ってみたぁぁ めっちゃいい感じなのに、声だけ完全に別キャラすぎるww"
+    },
+    {
+      "id": "zeng-wt-319579",
+      "title": "16mm Café Micro-Expressions",
+      "titleZh": "16mm 胶片咖啡馆微表情",
+      "category": "cinematic",
+      "author": {
+        "name": "𝐙𝐞𝐧𝐠 💜",
+        "handle": "zeng_wt",
+        "url": "https://x.com/zeng_wt"
+      },
+      "sourceUrl": "https://x.com/zeng_wt/status/2112263521522319579",
+      "publishedAt": "2026-10-19T19:24:02Z",
+      "prompt": "Photorealistic 16mm film shot of a man in his early 40s sitting alone at a small café table by a window. Natural window light, muted warm colors with slight green-magenta shift. He wears a plain button-up shirt. He takes a slow sip of coffee, then glances outside with a thoughtful, restrained expression, subtle tension in the brow and a quiet look in his eyes. Realistic skin detail, natural micro-expressions, gentle breathing. Authentic 16mm film grain, soft contrast, slight gate weave, organic imperfections, cinematic shallow depth of field, natural motion.",
+      "promptSourceUrl": "https://x.com/zeng_wt/status/2112263525045620781",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263521522319579-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263521522319579-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: The new FLUX 3 Max is absolutely incredible. 💜   It is super fast ⚡, and the way it handles true photorealism, cinematic lighting, and natural micro-expressions is amazing.  Prompt👇"
+    },
+    {
+      "id": "junwatu-714111",
+      "title": "Kid and the Bull",
+      "titleZh": "《男孩与公牛》",
+      "category": "cinematic",
+      "author": {
+        "name": "DΞV",
+        "handle": "junwatu",
+        "url": "https://x.com/junwatu"
+      },
+      "sourceUrl": "https://x.com/junwatu/status/2113506051127714111",
+      "publishedAt": "2026-10-23T05:41:24Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113506051127714111-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113506051127714111-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: Kid and the Bull  Created with FLUX 3 Max (T2V), then upscaled using Flux Video Upscaler."
+    },
+    {
+      "id": "browncatro1-770044",
+      "title": "Vampire Portrait Brought to Life",
+      "titleZh": "吸血鬼画像动起来",
+      "category": "anime",
+      "author": {
+        "name": "Browncat AI",
+        "handle": "browncatro1",
+        "url": "https://x.com/browncatro1"
+      },
+      "sourceUrl": "https://x.com/browncatro1/status/2112520787307770044",
+      "publishedAt": "2026-10-20T12:26:19Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112520787307770044-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112520787307770044-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: FLUX 3 Maxで、今朝アップしたヴァンパイアの画像を動画化してみました🧛‍♀️🦇 720p（といいながら実際は800x1088）、15秒の動画を36秒で生成していました⌛️"
+    },
+    {
+      "id": "tensyoku-kura-170609",
+      "title": "Japanese Speech Stays Clean",
+      "titleZh": "日语发音不崩",
+      "category": "anime",
+      "author": {
+        "name": "こだま | AI 使いたがりおじさん",
+        "handle": "tensyoku_kura",
+        "url": "https://x.com/tensyoku_kura"
+      },
+      "sourceUrl": "https://x.com/tensyoku_kura/status/2113035349400170609",
+      "publishedAt": "2026-10-21T22:31:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113035349400170609-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113035349400170609-video.mp4",
+      "durationSeconds": 30.06,
+      "note": "Post: FLUX 3 Max 日本語の発音がくずれない！動画生成＆モーショングラフック楽しいわい"
+    },
+    {
+      "id": "opener-ai-662314",
+      "title": "Sniper-Scope Desert Standoff",
+      "titleZh": "狙击镜里的沙漠对峙",
+      "category": "cinematic",
+      "author": {
+        "name": "Jin.B",
+        "handle": "opener_ai",
+        "url": "https://x.com/opener_ai"
+      },
+      "sourceUrl": "https://x.com/opener_ai/status/2113425706193662314",
+      "publishedAt": "2026-10-23T00:22:08Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113425706193662314-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113425706193662314-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: Flux 3 Max came out super fast, and it's awesome. Definitely one of my favorite video models. @morphic   #flux #morphic"
+    },
+    {
+      "id": "oguzhankayancom-848400",
+      "title": "Robot Arena Battle",
+      "titleZh": "机器人竞技场对战",
+      "category": "cinematic",
+      "author": {
+        "name": "Oğuzhan ✷",
+        "handle": "oguzhankayancom",
+        "url": "https://x.com/oguzhankayancom"
+      },
+      "sourceUrl": "https://x.com/oguzhankayancom/status/2112584514232848400",
+      "publishedAt": "2026-10-20T16:39:32Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112584514232848400-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112584514232848400-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: Hep aklımdaydı, acaba video modelleriyle bu robot arenası videoları oluştursak nasıl olur?  Bunu bir içerik formatı haline getirip shorts üzerinden falan yürünür mü acaba diye?  FLUX.3 Max kalitesiyle gerçekten muhteşem oldu.  Siz ne düşünüyorsunuz?👇"
+    },
+    {
+      "id": "shinayaka-today-739478",
+      "title": "Rainy Day in the Library",
+      "titleZh": "雨天图书馆",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2113820413700739478",
+      "publishedAt": "2026-10-24T02:30:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113820413700739478-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113820413700739478-video.mp4",
+      "durationSeconds": 15.08,
+      "note": "Post: 急にちょっと肌寒いですね。  10/24 ☔️📚  FLUX 3 Max"
+    },
+    {
+      "id": "niramayo2096-165017",
+      "title": "Cyberpunk Idol",
+      "titleZh": "赛博朋克偶像",
+      "category": "anime",
+      "author": {
+        "name": "にらまよ",
+        "handle": "niramayo2096",
+        "url": "https://x.com/niramayo2096"
+      },
+      "sourceUrl": "https://x.com/niramayo2096/status/2112781617748165017",
+      "publishedAt": "2026-10-21T05:42:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112781617748165017-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112781617748165017-video.mp4",
+      "durationSeconds": 30.06,
+      "note": "Post: FLUX 3 Maxで作ったよ！ 音はすべてAudio Studio"
+    },
+    {
+      "id": "cramer----967467",
+      "title": "Cavalier Puppies Surfing in San Francisco",
+      "titleZh": "骑士查理王小猎犬旧金山冲浪",
+      "category": "cinematic",
+      "author": {
+        "name": "cramer",
+        "handle": "Cramer___",
+        "url": "https://x.com/Cramer___"
+      },
+      "sourceUrl": "https://x.com/Cramer___/status/2112268945784967467",
+      "publishedAt": "2026-10-19T19:45:35Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112268945784967467-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112268945784967467-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: My benchmark itv test is \"Cavalier King puppies surfing in San Francisco\". FLUX 3 Max just set the new standard"
+    },
+    {
+      "id": "shinayaka-today-185001",
+      "title": "Anime Girl Turns Around",
+      "titleZh": "转身的动画少女",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2113145275825185001",
+      "publishedAt": "2026-10-22T05:47:48Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113145275825185001-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113145275825185001-video.mp4",
+      "durationSeconds": 15.05,
+      "note": "Post: GPTImages2.5 => FLUX 3 Max  10/22 🥣"
+    },
+    {
+      "id": "tensyoku-kura-600987",
+      "title": "Seaside Bike Ride",
+      "titleZh": "海边骑车",
+      "category": "cinematic",
+      "author": {
+        "name": "こだま | AI 使いたがりおじさん",
+        "handle": "tensyoku_kura",
+        "url": "https://x.com/tensyoku_kura"
+      },
+      "sourceUrl": "https://x.com/tensyoku_kura/status/2112748962264600987",
+      "publishedAt": "2026-10-21T03:33:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112748962264600987-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112748962264600987-video.mp4",
+      "durationSeconds": 11.56,
+      "note": "Post: FLUX 3 Max　動画生成速度めちゃ速い！！"
+    },
+    {
+      "id": "shinayaka-today-411359",
+      "title": "Laundry Day",
+      "titleZh": "洗衣日",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2112705088154411359",
+      "publishedAt": "2026-10-21T00:38:39Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112705088154411359-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112705088154411359-video.mp4",
+      "durationSeconds": 15.05,
+      "note": "Post: FLUX 3 Max いいかんじ🧺"
+    },
+    {
+      "id": "influencer-seo-270453",
+      "title": "Split-Screen Color Grading",
+      "titleZh": "分屏调色",
+      "category": "cinematic",
+      "author": {
+        "name": "Bennett | Generative Media | AI SEO @ fal",
+        "handle": "influencer_seo",
+        "url": "https://x.com/influencer_seo"
+      },
+      "sourceUrl": "https://x.com/influencer_seo/status/2113027249721270453",
+      "publishedAt": "2026-10-21T21:58:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113027249721270453-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113027249721270453-video.mp4",
+      "durationSeconds": 10.08,
+      "note": "Post: Split screen color grading in Flux 3 Max"
+    },
+    {
+      "id": "taziku-co-229133",
+      "title": "Illustrated Character 360° Turn",
+      "titleZh": "插画角色 360° 转身",
+      "category": "anime",
+      "author": {
+        "name": "田中義弘 | taziku CEO / AI × Creative",
+        "handle": "taziku_co",
+        "url": "https://x.com/taziku_co"
+      },
+      "sourceUrl": "https://x.com/taziku_co/status/2113553795108229133",
+      "publishedAt": "2026-10-23T08:51:07Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113553795108229133-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113553795108229133-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: FLUX 3 Maxを使ってイラストレーションの動画テスト。  シンプルに歩くという動作に加えて、見えていない部分を補完する精度をみるために1回転する動画。  動きの硬さや溶けはある。イラストに関しては、すごい精度とは言えませんが、この速度は魅力的ではあります。"
+    },
+    {
+      "id": "maanavdalal-593673",
+      "title": "Tiger Leaps off the Stamp",
+      "titleZh": "邮票里跃出的老虎",
+      "category": "cinematic",
+      "author": {
+        "name": "Maanav",
+        "handle": "maanavdalal",
+        "url": "https://x.com/maanavdalal"
+      },
+      "sourceUrl": "https://x.com/maanavdalal/status/2112265930881593673",
+      "publishedAt": "2026-10-19T19:33:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112265930881593673-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112265930881593673-video.mp4",
+      "durationSeconds": 12.1,
+      "note": "Post: I can't stop using FLUX 3 Max. This model has been a delight to test with and use in what feels like realtime 🧵"
+    },
+    {
+      "id": "taziku-co-676276",
+      "title": "Wolf in a Real Forest",
+      "titleZh": "真实森林中的狼",
+      "category": "cinematic",
+      "author": {
+        "name": "田中義弘 | taziku CEO / AI × Creative",
+        "handle": "taziku_co",
+        "url": "https://x.com/taziku_co"
+      },
+      "sourceUrl": "https://x.com/taziku_co/status/2112910343609676276",
+      "publishedAt": "2026-10-21T14:14:16Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112910343609676276-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112910343609676276-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: 幻想的な要素を排し、リアルな森の中を歩く狼をFLUX 3 Maxで生成。  若干、音はまだ噛み合っていない印象はあるものの、実写表現はさすがのクオリティ。  引き続きアニメやイラストも試してみます。"
+    },
+    {
+      "id": "taziku-co-429723",
+      "title": "Dragon Crossing Snowy Mountains",
+      "titleZh": "雪山巨龙",
+      "category": "cinematic",
+      "author": {
+        "name": "田中義弘 | taziku CEO / AI × Creative",
+        "handle": "taziku_co",
+        "url": "https://x.com/taziku_co"
+      },
+      "sourceUrl": "https://x.com/taziku_co/status/2113281877960429723",
+      "publishedAt": "2026-10-22T14:50:37Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-video.mp4",
+      "durationSeconds": 7,
+      "note": "Post: FLUX 3 Maxの実写表現では、これが最後のテスト。  今回は「巨大で、なおかつ実在しない存在をどこまで描けるか」をテーマに、雪山を進む龍を生成。  リファレンスとして使ったのは雪山の風景のみで、龍そのものには一切リファレンスを入れていないが、整合性が高い龍が生成された。"
+    },
+    {
+      "id": "jjjcontinue-760550",
+      "title": "Rooftop Sparring and Spin Kick",
+      "titleZh": "屋顶对练回旋踢",
+      "category": "cinematic",
+      "author": {
+        "name": "じくにーさん@AI動画の人",
+        "handle": "jjjContinue",
+        "url": "https://x.com/jjjContinue"
+      },
+      "sourceUrl": "https://x.com/jjjContinue/status/2113103050541760550",
+      "publishedAt": "2026-10-22T03:00:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113103050541760550-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113103050541760550-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: FLUX 3 Maxを5ジャンルで試しました。 屋上の組み手→回し蹴りは動きのキレが良い。 1080p・10秒・音声つきで1本$0.725（11/7まで）。"
+    },
+    {
+      "id": "maanavdalal-660700",
+      "title": "Spooky-Season Spider Buddy",
+      "titleZh": "万圣节蜘蛛新朋友",
+      "category": "voice",
+      "author": {
+        "name": "Maanav",
+        "handle": "maanavdalal",
+        "url": "https://x.com/maanavdalal"
+      },
+      "sourceUrl": "https://x.com/maanavdalal/status/2112328021495660700",
+      "publishedAt": "2026-10-19T23:40:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112328021495660700-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112328021495660700-video.mp4",
+      "durationSeconds": 11.1,
+      "note": "Post: It's spooky season and if you've met me before, you know I'm not a fan of spiders.   FLUX 3 Max came out today, and it's a SOTA video model that lets you generate a 10s video in 12s, so you can friend-ify your fears at lightspeed.   Listen to my new buddy:"
+    },
+    {
+      "id": "maanavdalal-339958",
+      "title": "Cutest Little Talking Spider",
+      "titleZh": "会说话的小蜘蛛",
+      "category": "voice",
+      "author": {
+        "name": "Maanav",
+        "handle": "maanavdalal",
+        "url": "https://x.com/maanavdalal"
+      },
+      "sourceUrl": "https://x.com/maanavdalal/status/2112266250290339958",
+      "publishedAt": "2026-10-19T19:34:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112266250290339958-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112266250290339958-video.mp4",
+      "durationSeconds": 11.1,
+      "note": "Post: Sound on 🔊 for this one, cutest little spider you've ever seen. FLUX 3 Max does so well with voices and audio."
+    },
+    {
+      "id": "junwatu-148297",
+      "title": "Warrior Riding a Mecha Boar",
+      "titleZh": "骑机械野猪的女战士",
+      "category": "cinematic",
+      "author": {
+        "name": "DΞV",
+        "handle": "junwatu",
+        "url": "https://x.com/junwatu"
+      },
+      "sourceUrl": "https://x.com/junwatu/status/2113462066552148297",
+      "publishedAt": "2026-10-23T02:46:37Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113462066552148297-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113462066552148297-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Post: Using Image to Video in FLUX 3 Max via @fal  Very fast generation and only cost $0.64 for this 15s video."
+    },
+    {
+      "id": "mfriend132-176397",
+      "title": "Racing a Train on a Bison",
+      "titleZh": "骑野牛和火车赛跑",
+      "category": "cinematic",
+      "author": {
+        "name": "Matt Friend",
+        "handle": "mfriend132",
+        "url": "https://x.com/mfriend132"
+      },
+      "sourceUrl": "https://x.com/mfriend132/status/2112321648540176397",
+      "publishedAt": "2026-10-19T23:15:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321648540176397-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321648540176397-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: People say there's no way my friend Angus could beat a train in a race while riding a bison.  The sickos and haters were clearly not familiar with Flux 3 Max's game. Fastest in the West.  Try it here:"
+    },
+    {
+      "id": "rafyarish-594658",
+      "title": "FLUX 3 Max vs Seedance 2.5 vs Google Omni",
+      "titleZh": "FLUX 3 Max vs Seedance 2.5 vs Google Omni",
+      "category": "comparison",
+      "author": {
+        "name": "Raphael Yarish",
+        "handle": "rafyarish",
+        "url": "https://x.com/rafyarish"
+      },
+      "sourceUrl": "https://x.com/rafyarish/status/2112313612316594658",
+      "publishedAt": "2026-10-19T22:43:04Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112313612316594658-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112313612316594658-video.mp4",
+      "durationSeconds": 22.93,
+      "note": "Post: New AI video model FLUX 3 MAX just came out.  10-second video. 12 seconds to render.  Claims Seedance quality.  I was skeptical.  So I tested it head-to-head with Seedance 2.5 and Google Omni.  The results surprised me."
+    },
+    {
+      "id": "kazuph-934761",
+      "title": "Manga to Anime with a 3x3 Storyboard",
+      "titleZh": "3x3 分镜把漫画动画化",
+      "category": "anime",
+      "author": {
+        "name": "kazuph 🍙",
+        "handle": "kazuph",
+        "url": "https://x.com/kazuph"
+      },
+      "sourceUrl": "https://x.com/kazuph/status/2113538374648934761",
+      "publishedAt": "2026-10-23T07:49:50Z",
+      "prompt": "Prompt:\nThe input image is a 3x3 storyboard grid with numbered panels 1-9, in full-color anime style. At 0.0s cut immediately from the grid to Shot 1 full-screen; never show the grid again. The video has exactly 8 shots, played in this order using these panels: Shot 1 = panel 1, Shot 2 = panel 2, Shot 3 = panel 3, Shot 4 = panel 4, Shot 5 = panel 5, Shot 6 = panel 6, Shot 7 = panel 8 (panel 7 is NOT used), Shot 8 = panel 9. Each shot is full-screen 16:9. Every shot change is an instant HARD CUT on a single frame, only at the times given below: no dissolves, no crossfades, no morphing between shots. Never show the grid layout, the panel borders, the white gutters or the number labels.\nSHOT RULES: each shot is ONE single continuous shot with one camera angle; no extra cuts, no reverse angles, no flashbacks, no inserted close-ups inside a shot. Exactly 8 shots in total, and exactly 7 hard cuts, only at 1.9s, 3.6s, 6.2s, 8.1s, 10.5s, 13.7s and 17.3s. Respect every shot length: do not shorten the early shots.\nCHARACTER COUNT: there are only two people in this story, HIM and HER. Each person appears at most ONCE in any frame: never duplicate, clone or mirror a character, never show two copies of him or two copies of her. No other people.\nFULL-COLOR TV anime (not black-and-white): clean cel shading, bright airy modern office with daylight. Keep the same two characters with the same face and consistent design in every shot and every frame (same face shape, eyes, hairstyle, clothes; no change of age or gender): HIM: a fresh, likable young man in his early 20s, short black hair, black suit jacket, white T-shirt. HER (Claude-chan): dark bob with bangs, Claude-orange (#D97757 terracotta orange) flower hair clip and Claude-orange puff-sleeve blouse. No speech balloons, no on-screen text, no subtitles, no captions, no logos.\nPROPS AND HANDS: keep props simple and stable. The laptop is always the same thin plain silver laptop (same color, same thickness, never changes). The smartphone is a plain black phone. Hands are simple anime hands with five fingers, mostly relaxed or out of frame; no hand close-ups, no handing objects between characters, no fiddling with small objects.\nACTING: big, readable anime acting in every shot from its first frame, with clear lip-sync mouth movements: only the character who is speaking moves their mouth, and the mouth keeps moving until the end of the line; no frozen frames.\nShot 1 (0.0-1.9s, a full 1.9 seconds, close-up, panel 1, only him in frame): he grins goofily at his smartphone, eyes narrowing, shoulders shaking as he laughs. HE laughs, goofy and youthful: \"グヘヘ……\"\nShot 2 (1.9-3.6s, over-his-shoulder medium shot, panel 2): she stands with arms crossed, eyes half-closed in a cold stare. SHE says flatly: \"……何、その顔。\"\nShot 3 (3.6-6.2s, a full 2.6 seconds, two-shot with exactly one him and one her, panel 3): he leans toward her talking excitedly with his mouth wide open; she turns her face away, annoyed. HE says, excited and fast: \"デュエット来るって！君といつでも……\"\nShot 4 (6.2-8.1s, a full 1.9 seconds, low-angle close-up, panel 4, only her in frame): framed on HER FACE from the very first frame (eyes, mouth and hair clip visible); she tilts her chin up and glares down. SHE snaps, icy: \"はぁ？なんで私が。\"\nShot 5 (8.1-10.5s, medium shot of HER ONLY, based on panel 5 but he is NOT in this shot): she stands alone next to the silver laptop on the desk and talks briskly, one hand gesturing toward the screen. SHE says, businesslike: \"メールも予定も、クラウドで進めるの。\"\nShot 6 (10.5-13.7s, two-shot with exactly one him and one her, panel 6): the silver laptop stays on the desk between them; she looks at him and talks crisply, then he nods twice and answers. First SHE says: \"承認は、あなたね。\" Then HE answers meekly: \"わかった。\"\nShot 7 (13.7-17.3s, a full 3.6 seconds, panel 8): ONE continuous shot on HIS face only, with a slow push-in; the camera never cuts away and never shows her face, her hair and shoulder are only a soft blurred edge at the frame side. Same face throughout. He hesitates, glances down, then looks up and speaks gently with a sincere smile; HE says quietly: \"本当は……\" then, after a short pause, softly and sincerely: \"君と、仕事じゃない話がしたくて。\"\nShot 8 (17.3-20.0s, her in the foreground, one him behind, panel 9): she blushes bright red, lowers her eyes and murmurs shyly with a small smile, her mouth moving until 19.8s; he smiles warmly. SHE murmurs, shy tsundere: \"……ちょっとだけなら、いいわよ。\" Hold the last frame calmly.",
+      "promptSourceUrl": "https://x.com/kazuph/status/2113553729492578737",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113538374648934761-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113538374648934761-video.mp4",
+      "durationSeconds": 19.95,
+      "note": "Post: 漫画をFLUX 3 Maxでアニメ化してみました！Seedance 2.5だと20秒でランチ代(¥1500)が吹き飛びますが、FLUX 3 Maxは20秒でも缶ジュース1本くらい(¥134)なのがいいですね。 ※期間限定11/07まで、以降は¥540程度になり4倍になる  原案漫画：ChatGPT 絵コンテ：Nano Banana 2.1 動画：FLUX 3 Max on fal"
+    },
+    {
+      "id": "tentamasoba1016-404827",
+      "title": "Edo Samurai in a Bamboo Grove",
+      "titleZh": "江户竹林武士",
+      "category": "cinematic",
+      "author": {
+        "name": "gamaccho | artist",
+        "handle": "Tentamasoba1016",
+        "url": "https://x.com/Tentamasoba1016"
+      },
+      "sourceUrl": "https://x.com/Tentamasoba1016/status/2113872027522404827",
+      "publishedAt": "2026-10-24T05:55:39Z",
+      "prompt": "日本の江戸時代。\n竹林の中に一人の武士。笹の葉が常に舞い落ちている。 整った武士の服装で、ダークブルーが基調。 武士は男性で、年齢は30歳。無精髭あり。中肉中背。 落ち着いた表情。  カメラは\n低い位置からリフトして人の目の高さ。\nゆっくりオービットパン。\n\n\n0-2秒：直立して呼吸を整える。 \n2-4秒：刀を鞘からまっすぐ抜き、両手に握り構える。八相の構え。\n\n4-7秒：北辰一刀流の殺陣の演舞。素早い動き。 \n最後の3秒：刀を時代劇と同じ動作で丁寧に鞘に納め、呼吸を整える。カメラが武士に近寄る。\n\n\n\nSONY VENICE 35mmレンズ。シネマティック。\n\n武士以外のキャラクターは存在しない。",
+      "promptSourceUrl": "https://x.com/Tentamasoba1016/status/2113872465713860966",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: FLUX 3 MAX on @fal  テスト生成 text to video 10秒 720p 生成時間22秒でした。早い！ プロンプトはリプ欄 #FLUX3MAX #AIFilm"
+    },
+    {
+      "id": "genai-creative-434566",
+      "title": "1080p Image-to-Video Fashion Shot",
+      "titleZh": "1080p 图生视频·服装模特",
+      "category": "cinematic",
+      "author": {
+        "name": "生成AIでIPチャレンジ",
+        "handle": "GenAI_Creative",
+        "url": "https://x.com/GenAI_Creative"
+      },
+      "sourceUrl": "https://x.com/GenAI_Creative/status/2112381533340434566",
+      "publishedAt": "2026-10-20T03:12:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112381533340434566-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112381533340434566-video.mp4",
+      "durationSeconds": 5.11,
+      "note": "Post: 5秒　1080p blackforestlabs/flux-3-max/image-to-video  720pもやりましたが、顔が溶けてしまい、ちと厳しそう。"
+    },
+    {
+      "id": "genai-creative-247378",
+      "title": "Same Reference: MiniMax H3 Max vs FLUX 3 Max",
+      "titleZh": "同参考图：MiniMax H3 Max vs FLUX 3 Max",
+      "category": "comparison",
+      "author": {
+        "name": "生成AIでIPチャレンジ",
+        "handle": "GenAI_Creative",
+        "url": "https://x.com/GenAI_Creative"
+      },
+      "sourceUrl": "https://x.com/GenAI_Creative/status/2112387556776247378",
+      "publishedAt": "2026-10-20T03:36:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112387556776247378-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112387556776247378-video.mp4",
+      "durationSeconds": 5.25,
+      "note": "Post: 左　minimax/h3-max/reference-to-video 右　blackforestlabs/flux-3-max/image-to-video  参照画像同じ、プロンプト同じ 1080p, 5秒　どちらも5秒程度で生成"
+    },
+    {
+      "id": "justinangel-394869",
+      "title": "FLUX 3 vs FLUX 3 Max on the Same Prompt",
+      "titleZh": "FLUX 3 与 FLUX 3 Max 同提示词对比",
+      "category": "comparison",
+      "author": {
+        "name": "Justin Angel",
+        "handle": "JustinAngel",
+        "url": "https://x.com/JustinAngel"
+      },
+      "sourceUrl": "https://x.com/JustinAngel/status/2112263777882394869",
+      "publishedAt": "2026-10-19T19:25:03Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-video.mp4",
+      "durationSeconds": 22.15,
+      "note": "Post: Wow, the new Flux 3 Max being offered at 25% for the next month sees really cost-effective.   Side-by-side comparison of Flux 3 $3.19 vs. @fal  Flux 3 Max $0.79 performance on the same prompt."
+    },
+    {
+      "id": "oozish777-430991",
+      "title": "Giant Monster Series: Smog Monster",
+      "titleZh": "巨兽系列：烟雾怪兽",
+      "category": "cinematic",
+      "author": {
+        "name": "I See the Matrix",
+        "handle": "Oozish777",
+        "url": "https://x.com/Oozish777"
+      },
+      "sourceUrl": "https://x.com/Oozish777/status/2113782527089430991",
+      "publishedAt": "2026-10-24T00:00:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113782527089430991-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113782527089430991-video.mp4",
+      "durationSeconds": 51.5,
+      "note": "Post: GIANT MONSTER SERIES - Born from the filth, the Smog Monster lays waste to a Japanese chemical plant to feed it's insatiable thirst for toxic sludge.   ☣️1080p  / Created with Flux 3 MAX ☣️   #HEDORAH #kaiju #Godzilla #GodzillaMinusZero"
+    },
+    {
+      "id": "aden-gomes23-664452",
+      "title": "Never Bet Against Me",
+      "titleZh": "《别跟我赌》",
+      "category": "cinematic",
+      "author": {
+        "name": "Aden Gomes",
+        "handle": "aden_gomes23",
+        "url": "https://x.com/aden_gomes23"
+      },
+      "sourceUrl": "https://x.com/aden_gomes23/status/2112353180130664452",
+      "publishedAt": "2026-10-20T01:20:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: \"Never bet against me\"  0.85$ and 35 seconds to gen. Wow flux 3 max {Text to Vid} astonishing. (75% off promo tho)"
+    },
+    {
+      "id": "maell55-525958",
+      "title": "Halloween Countdown Bumper",
+      "titleZh": "万圣节倒计时片头",
+      "category": "voice",
+      "author": {
+        "name": "maell55 freedom speech true right side of history",
+        "handle": "maell55",
+        "url": "https://x.com/maell55"
+      },
+      "sourceUrl": "https://x.com/maell55/status/2112432585825525958",
+      "publishedAt": "2026-10-20T06:35:50Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112432585825525958-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112432585825525958-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: FLUX 3 max image to video Bumper 260 — October 20: Eleven Nights Left [Host in a doorway, holding up both hands, then one finger.] Host: “Eleven nights. The decorations aren’t decorations anymore. They’re seating charts.”  [A plastic skeleton on the lawn adjusts its own grin.]"
+    },
+    {
+      "id": "h1natapapa-836073",
+      "title": "Ninja Cat Test",
+      "titleZh": "忍者猫测试",
+      "category": "cinematic",
+      "author": {
+        "name": "よーすけ｜3交代工場勤務のAIアニメーター",
+        "handle": "H1NATApapa",
+        "url": "https://x.com/H1NATApapa"
+      },
+      "sourceUrl": "https://x.com/H1NATApapa/status/2112458426567836073",
+      "publishedAt": "2026-10-20T08:18:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112458426567836073-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112458426567836073-video.mp4",
+      "durationSeconds": 5.04,
+      "note": "Post: 話題の新しい動画AI「FLUX 3 Max」、さっそくうちの忍者猫で試してみました。 結論から言うと、うちの猫には合わなかったです😂  FLUX 3 Maxは、画像AIで有名なFLUXの動画版。いろんな画像・動画AIが使えるfalっていうサービスが、FLUXを作った会社と一緒に出しました。"
+    },
+    {
+      "id": "earlyfield8612-944157",
+      "title": "Natural Dialogue Performance",
+      "titleZh": "自然的对白表演",
+      "category": "voice",
+      "author": {
+        "name": "Yas⚡️BizDev-Engineer",
+        "handle": "earlyfield8612",
+        "url": "https://x.com/earlyfield8612"
+      },
+      "sourceUrl": "https://x.com/earlyfield8612/status/2112381039456944157",
+      "publishedAt": "2026-10-20T03:11:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112381039456944157-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112381039456944157-video.mp4",
+      "durationSeconds": 20.11,
+      "note": "Post: Flux 3 Maxで動画生成。 結構自然な演技でSeedance 2.5を彷彿とさせる。 今だけ75%オフで試すにはちょうど良いです。"
+    },
+    {
+      "id": "nomaaistudio-994118",
+      "title": "Same Prompt: FLUX 3 Max vs Seedance 2.5 with Kiti",
+      "titleZh": "同提示词：FLUX 3 Max vs Seedance 2.5（Kiti 玩偶）",
+      "category": "comparison",
+      "author": {
+        "name": "NoMa Studio AI",
+        "handle": "nomaaistudio",
+        "url": "https://x.com/nomaaistudio"
+      },
+      "sourceUrl": "https://x.com/nomaaistudio/status/2113418803807994118",
+      "publishedAt": "2026-10-22T23:54:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-video.mp4",
+      "durationSeconds": 24.29,
+      "note": "Post: Probamos FLUX 3 Max en ComfyUI con Kiti, de Los Amigurumis: mismo cuadro, mismo prompt, voz en castellano. Primero FLUX 3 Max (720p, 5 s, 64 créditos en Comfy Cloud), después Seedance 2.5 (480p, 8 s, unos 0,82 USD en BytePlus). ¿Cuál cuida mejor a Kiti?"
+    },
+    {
+      "id": "rareparkstudios-592271",
+      "title": "Three Hyperreal UGC Ads",
+      "titleZh": "三支超写实 UGC 广告",
+      "category": "cinematic",
+      "author": {
+        "name": "Uthsav Meda",
+        "handle": "RareParkStudios",
+        "url": "https://x.com/RareParkStudios"
+      },
+      "sourceUrl": "https://x.com/RareParkStudios/status/2112513581891592271",
+      "publishedAt": "2026-10-20T11:57:41Z",
+      "prompt": "1]## HYPERREALISTIC CHOCOLATE UGC — 10 SECONDS\n\n**REFERENCE:** Use the provided image #Image1  as the exact first frame. Preserve the woman's facial identity, blue eyes, blonde hair, natural skin texture, white clothing, jewelry, dark chocolate, white ceramic bowl, blue woven chair, beige cushion and original warm indoor lighting.\n\n**CREATIVE DIRECTION**\n\nAn extremely believable, spontaneous smartphone video of a young woman eating chocolate and casually reacting to its taste. Feels like a friend is recording her from close range. Playful, slightly messy, intimate and genuinely unscripted. The camera is handheld and noticeably alive, never artificially locked.\n\n### ACTION, EXPRESSIONS & TIMING\n\n**0:00–0:02 — THE BITE**\n\nBeginning from the exact reference pose, she bites into the chocolate naturally. Her front teeth make contact, her jaw closes with believable resistance, and a small piece breaks away. The remaining chocolate stays between her fingers. Her eyes briefly narrow as she bites. She withdraws the chocolate a little from her lips, with a tiny instinctive downward glance.\n\nThe handheld camera drifts slightly left and downward, then gently corrects. A couple of irregular micro-shakes from the person holding the phone.\n\n**0:02–0:04 — THE REAL REACTION**\n\nShe chews naturally with closed lips, approximately two or three uneven chewing movements. Her eyes wander briefly away from the camera, then return. A subtle eyebrow lift suggests she likes the taste. A tiny smile appears while she's still chewing, slightly raising one cheek.\n\nShe leans backward a few centimeters into the chair. The bowl shifts naturally with her hand. The camera makes a small spontaneous upward correction, briefly softening focus before settling again.\n\n**0:04–0:06 — THE MOMENT BEFORE SPEAKING**\n\nShe finishes chewing and swallows naturally. A very small amused exhale escapes through her nose. She glances down at the chocolate, then back toward the person filming. Her lips part as she starts talking, with a slight smile that she doesn't deliberately hold.\n\n**0:06–0:10 — THE DIALOGUE**\n\nShe talks naturally while looking mostly at the camera, occasionally glancing down at the chocolate. Her eyebrows shift subtly, her head tilts just a fraction, and her mouth forms an asymmetric smile. A tiny, genuine breathy laugh interrupts her sentence.\n\nShe gently raises the chocolate a few centimeters as if considering another bite, but does not actually bite again.\n\n### EXACT DIALOGUE\n\n\"Wait... that's actually so good. Like, I need another piece.\"\n\n### VOICE PERFORMANCE\n\nExtremely natural young adult American female voice. Soft-medium volume, slightly low and relaxed, with realistic vocal texture and casual American pronunciation.\n\n- **\"Wait...\"** Said quietly with mild surprise, almost under her breath.\n- **\"That's actually so good.\"** Warm, spontaneous, with a tiny smile audible in the voice. Slight extra emphasis on \"so.\"\n- **\"Like,\"** A quick, casual filler with a small breathy laugh.\n- **\"I need another piece.\"** Slightly faster, playful and understated, as if she's casually admitting something funny.\n\nNot every word should be perfectly articulated. Use naturally connected syllables, tiny breaths, irregular pauses, subtle pitch changes and unpolished speech timing.\n\nShe must finish swallowing before speaking. No dialogue with an unrealistically full mouth.\n\n### HANDHELD CAMERA — IMPORTANT\n\nThe smartphone is physically handheld by another person seated or standing immediately in front of her.\n\nThe framing must feel organically unstable throughout:\n\n- Small unpredictable horizontal and vertical movements from natural hand tremor.\n- Occasional slightly stronger shake, particularly around 0:02 and 0:07.\n- Very gentle forward/backward drift as the camera holder shifts their weight.\n- Imperfect recentering when she leans back.\n- Subtle rolling-shutter behavior and momentary autofocus breathing.\n- Natural changes in perspective and background parallax.\n- A tiny accidental clockwise tilt, naturally corrected without a mechanical movement.\n\n**Never make the camera perfectly static.** However, shaking must stay within believable smartphone-handling limits, not violent or deliberately cinematic.\n\n### PHYSICAL REALISM\n\nNatural jaw mechanics, realistic chocolate fracture, subtle swallowing, believable lip compression, tiny eye-focus changes, occasional irregular blinking, visible skin pores, realistic asymmetrical facial muscle movement, and slight hair displacement as she shifts.\n\nAccurate finger contact with the chocolate and stable grip on the bowl. Both objects have consistent physical weight. Preserve realistic shadows and occlusions.\n\n### SOUND\n\nIntimate smartphone microphone recording. Very faint indoor room ambience, subtle chocolate-bite sound, small natural chewing noises, realistic breath, slight clothing rustle and a soft spontaneous laugh.\n\nThe recording should sound like an ordinary phone video, not studio voiceover. No background music.\n\n### STRICT NEGATIVES\n\nNo beauty filters, no robotic facial movements, no artificial smiles, no exaggerated enjoyment, no perfectly synchronized blinking, no unnatural chewing, no chocolate melting or morphing, no floating crumbs, no distorted hands, no disappearing fingers, no bowl deformation, no frozen background, no smooth cinematic gimbal movement, no constant mechanical camera shake, no artificial voice delivery, no subtitles, no cuts.\n\n**FINAL RESULT:** A genuinely convincing 10-second handheld chocolate UGC video. Slightly shaky, naturally imperfect, dynamically framed, with believable eating mechanics, subtle facial reactions and spontaneous conversational dialogue. It should feel like a real casual moment accidentally captured on someone's phone.\n\n2]## HYPERREALISTIC STREET-STYLE UGC — 10 SECONDS\n\n**FIRST FRAME & VISUAL CONTINUITY**\n\nUse the provided image #Image1  as the exact opening frame. Preserve the man's facial identity, natural Afro-textured hair, facial hair, skin texture, silver earring, gold necklaces, grey graphic T-shirt, hand anatomy, red takeaway cup, striped straw, and printed branding. Preserve the original sunny urban street, architecture, vehicles, and natural daylight.\n\nThe video must feel like a spontaneous smartphone recording of a real guy reacting to a drink on a sunny afternoon.\n\n### PERFORMANCE & MICRO-EXPRESSIONS\n\n**0:00–0:02 — THE SIP**\n\nHe continues sipping through the straw exactly as shown in the first frame. A tiny natural hollowing of the cheeks, slight jaw tension, subtle throat movement. His eyes maintain casual contact with the camera, slightly narrowed from the sunlight. He finishes sipping, releases the straw naturally with his lips, and swallows. No exaggerated reaction.\n\n**0:02–0:04 — THE REACTION**\n\nHis eyes briefly move toward the cup. One eyebrow rises almost imperceptibly. His mouth forms a tiny surprised half-smile. A very quiet nasal exhale, almost a suppressed laugh. He lowers the cup approximately 5–8 centimeters while keeping it comfortably in his hand.\n\nHe starts speaking as though genuinely surprised by how much he likes the drink.\n\n**0:04–0:08 — THE CONVERSATION**\n\nHe looks back into the camera. His head makes a small, involuntary nod while speaking. One corner of his mouth lifts naturally. Slight eyebrow movement and subtle changes in eye focus accompany his words. His facial muscles remain relaxed. No dramatic expressions.\n\n**0:08–0:10 — THE ENDING**\n\nHe finishes his sentence with a small amused smile, glances briefly down at the drink, then returns his gaze to the camera. A tiny satisfied nod. The expression fades naturally rather than freezing into a perfect smile.\n\n### EXACT SPOKEN DIALOGUE\n\n\"Okay, wait... that's actually so good. I thought it'd be way too sweet, but nah. I could drink this all day.\"\n\n### VOICE & SPEECH DIRECTION\n\nAuthentic young adult American male voice, medium-low register, slightly textured, warm, relaxed and conversational.\n\nThe delivery must sound like completely unscripted everyday speech.\n\n- **\"Okay, wait...\"** Slightly surprised, spoken quietly after swallowing. A tiny hesitation between the words.\n- **\"That's actually so good.\"** Genuine understated appreciation. Slight natural pitch rise on \"actually,\" with an almost involuntary smile.\n- **\"I thought it'd be way too sweet\"** Faster, casually connected speech, as though explaining his initial assumption.\n- **\"But nah.\"** Short, lower-pitched, lightly amused, with a tiny head movement.\n- **\"I could drink this all day.\"** Relaxed and confident, ending with a small smile rather than an advertising-style punchline.\n\nRealistic American conversational pronunciation, natural contractions, slight variations in vocal intensity, authentic breaths, and subtle vocal texture. Avoid rhythmic, perfectly enunciated scripted speech.\n\n### PHYSICAL & AUDIO REALISM\n\nPrecise lip synchronization with convincing jaw, tongue, cheek and neck-muscle movement. Natural swallowing before speech. Realistic facial asymmetry, tiny irregular blinks, sunlight-induced squinting, and spontaneous eye movements.\n\nThe cup has realistic weight and inertia. Fingers maintain believable contact and grip pressure. The straw moves only as physically caused by his lips or the movement of the cup. Necklaces respond subtly to body movement.\n\nUse authentic nearby street ambience: faint traffic, distant pedestrians and a soft urban background. His voice is clear and close to the phone microphone, with realistic outdoor acoustic characteristics.\n\n### CAMERA\n\nSingle continuous handheld smartphone recording. Maintain the original framing, perspective and lighting. Very subtle natural handheld instability, without deliberate pans, zooms, cinematic camera moves, or cuts.\n\nPreserve the slightly harsh direct sunlight, authentic skin highlights, real shadows, fabric texture and believable background depth.\n\n### STRICT NEGATIVES\n\nNo robotic lip-sync, exaggerated eyebrow raising, forced laughter, theatrical expressions, unnecessary body swaying, random hand gestures, artificial smooth skin, facial identity changes, altered cup branding, distorted fingers, floating straw, unnatural teeth, scripted influencer enthusiasm, music, subtitles, or transitions.\n\n**FINAL RESULT:** A convincing, completely natural street-style UGC moment, where a real person casually takes a sip, discovers he likes the drink, and tells the camera with subtle, spontaneous human reactions. dont keep the camers stuck.. move it or shake it naturally somtimes\n\n3]**HYPER-REALISTIC UGC — LITTLE GIRL OUTFIT CHECK**\n\n**Duration:** 12 seconds. Single continuous handheld smartphone recording. Authentic home-video realism.\n\n**FIRST FRAME:** Use the supplied image exactly. Preserve the child's facial identity, natural skin texture, hairstyle, blue and white hair clips, orange-tinted sunglasses, pink bear dress, body proportions, handbag, wooden flooring and surrounding environment.\n\n**PERFORMANCE:**\n\nA young girl is being casually filmed by a parent holding a smartphone slightly above her eye level.\n\nShe initially looks down with the calm, slightly serious expression visible in the reference. After hearing the person filming, she gradually lifts her chin, looks toward the phone through her sunglasses and gives a tiny, proud smile.\n\nShe speaks with natural childhood enthusiasm, imperfect timing and small pauses. She briefly looks at her dress, lightly sways her handbag, shifts her weight between her feet and gives a tiny shoulder shrug.\n\nHer confidence feels spontaneous and adorable, not rehearsed.\n\n**DIALOGUE — Natural young American girl's voice:**\n\n\"Okay, so... these are my favorite sunglasses. And look at my dress! It has a little bear on it. I picked it myself!\"\n\n**VOICE & FACIAL PERFORMANCE:**\n\nAuthentic young child's voice, natural American English pronunciation. Slightly soft beginning, playful emphasis on \"favorite sunglasses,\" a tiny excited pitch rise at \"look at my dress,\" and a proud, cheeky smile after \"myself.\"\n\nNatural pauses, little breaths, subtle mouth movements, believable jaw articulation and precise lip synchronization. No adult-sounding voice, artificial baby voice, excessive cuteness or exaggerated expressions.\n\n**CAMERA:**\n\nParent-recorded vertical smartphone footage. Maintain the original high-angle perspective. Gentle handheld shaking, imperfect framing, tiny accidental camera adjustments and slight reframing as she lifts her head. Never perfectly stabilized or cinematic.\n\n**REALISM:**\n\nNatural indoor daylight. Small fabric movements, realistic hair physics, subtle blinking behind tinted lenses, natural balance adjustments and accurate handbag movement.\n\nVery faint indoor room ambience. No background music, captions, beauty filters, cuts, artificial zooms or dramatic acting.\n\n**GOAL:** A genuinely candid video of a little girl proudly showing off her outfit to a family member. It should feel like a real spontaneous childhood moment, not an AI-generated advertisement.",
+      "promptSourceUrl": "https://x.com/RareParkStudios/status/2112513768538452369",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-video.mp4",
+      "durationSeconds": 13.1,
+      "note": "Three prompts posted by the creator as separate replies; the prompt source links to the first of them. Post: @fal keeps on cooking with models... FLUX 3 MAX created each of these under 30 sec and costed $0.55 only.. and they are so REALISTIC ..  and trust me prompting well ,still matters...  and u guys are free to steal em from me.. !!  i have given all the \"3 prompts and reference"
+    },
+    {
+      "id": "liechti-dev-812659",
+      "title": "Productivity App Ad for $0.70",
+      "titleZh": "0.70 美元做一支效率应用广告",
+      "category": "cinematic",
+      "author": {
+        "name": "Steven | koru.do",
+        "handle": "liechti_dev",
+        "url": "https://x.com/liechti_dev"
+      },
+      "sourceUrl": "https://x.com/liechti_dev/status/2112323106735812659",
+      "publishedAt": "2026-10-19T23:20:48Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112323106735812659-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112323106735812659-video.mp4",
+      "durationSeconds": 16.55,
+      "note": "Post: Just playing with FLUX 3 Max to make an ad for Koru. Impressed, paid ~$0.70 for this."
+    },
+    {
+      "id": "julian-inada-289033",
+      "title": "Raccoon and Robot Coffee Break",
+      "titleZh": "浣熊和机器人的咖啡时间",
+      "category": "cinematic",
+      "author": {
+        "name": "Julian · Media AI",
+        "handle": "julian_inada",
+        "url": "https://x.com/julian_inada"
+      },
+      "sourceUrl": "https://x.com/julian_inada/status/2112588945234289033",
+      "publishedAt": "2026-10-20T16:57:09Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-video.mp4",
+      "durationSeconds": 10.09,
+      "note": "Post: FLUX 3 Max renders a 10-second clip in about 11 seconds, so my coffee break is officially unemployed ☕🎬"
+    },
+    {
+      "id": "mrperry1973-027480",
+      "title": "Seedance 2.5 vs Wan 3.0 vs FLUX 3 Max",
+      "titleZh": "Seedance 2.5 vs Wan 3.0 vs FLUX 3 Max",
+      "category": "comparison",
+      "author": {
+        "name": "Mr Perry",
+        "handle": "MrPerry1973",
+        "url": "https://x.com/MrPerry1973"
+      },
+      "sourceUrl": "https://x.com/MrPerry1973/status/2112883030545027480",
+      "publishedAt": "2026-10-21T12:25:44Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112883030545027480-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112883030545027480-video.mp4",
+      "durationSeconds": 75.26,
+      "note": "Post: Seedance 2.5, Wan 3.0, Flux 3 Max Same Scene"
+    },
+    {
+      "id": "khangnguyen-ai-271995",
+      "title": "Falling Through the Clouds",
+      "titleZh": "穿云坠落",
+      "category": "cinematic",
+      "author": {
+        "name": "Khang Nguyen I AI",
+        "handle": "khangnguyen_ai",
+        "url": "https://x.com/khangnguyen_ai"
+      },
+      "sourceUrl": "https://x.com/khangnguyen_ai/status/2112481134412271995",
+      "publishedAt": "2026-10-20T09:48:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112481134412271995-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112481134412271995-video.mp4",
+      "durationSeconds": 20.15,
+      "note": "Post: I just tried FLUX 3 Max on and created a 20-second 720p video.   It only cost about $0.85 ($0.0425 per second) thanks to the 75% off promotion running until November 7.   The video quality is really impressive  clear details and natural motion while the"
+    },
+    {
+      "id": "mcog94-427870",
+      "title": "Flying Roadsters Play Rocket League",
+      "titleZh": "飞天跑车踢火箭联盟",
+      "category": "story",
+      "author": {
+        "name": "Mariano Olivera",
+        "handle": "Mcog94",
+        "url": "https://x.com/Mcog94"
+      },
+      "sourceUrl": "https://x.com/Mcog94/status/2113715165430427870",
+      "publishedAt": "2026-10-23T19:32:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113715165430427870-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113715165430427870-video.mp4",
+      "durationSeconds": 66.99,
+      "note": "Post: Flying Roadsters playing Rocket League. 🚀  Made in 2 hours with FLUX 3 Max, a model that just launched! It's FAST.  Which game should get the AI film treatment next?"
+    },
+    {
+      "id": "ainetworktech-331787",
+      "title": "Agent-Directed 35-Second Film",
+      "titleZh": "由智能体导演的 35 秒短片",
+      "category": "music",
+      "author": {
+        "name": "AIコンテンツシステムUEGAと制作・開発　武田",
+        "handle": "AINetworkTech",
+        "url": "https://x.com/AINetworkTech"
+      },
+      "sourceUrl": "https://x.com/AINetworkTech/status/2112972299385331787",
+      "publishedAt": "2026-10-21T18:20:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112972299385331787-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112972299385331787-video.mp4",
+      "durationSeconds": 35.27,
+      "note": "Post: FLUX3 Maxのテスト。Opu5.5君にほぼすべて企画・映像設計から実際のレンダリング。一部WAN3.0なども自動選択して使わせながら仕上げさせたもの。３５秒です。"
+    },
+    {
+      "id": "chaichai-1551-358845",
+      "title": "Clay Robot Breakfast",
+      "titleZh": "黏土机器人早餐",
+      "category": "cinematic",
+      "author": {
+        "name": "細谷海 / VoiceCast",
+        "handle": "chaichai_1551",
+        "url": "https://x.com/chaichai_1551"
+      },
+      "sourceUrl": "https://x.com/chaichai_1551/status/2112409983321358845",
+      "publishedAt": "2026-10-20T05:06:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112409983321358845-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112409983321358845-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "Post: オリジナルのFLUX 3を10倍高速化して10秒の動画を13秒で生成できるようになったFLUX 3 Max試してみた👀  これからメインで使ってみたい。3週間は75%オフとのこと"
+    },
+    {
+      "id": "amrstech-582992",
+      "title": "Low-Battery Phone Ad",
+      "titleZh": "低电量手机广告",
+      "category": "cinematic",
+      "author": {
+        "name": "Ahamed",
+        "handle": "amrstech",
+        "url": "https://x.com/amrstech"
+      },
+      "sourceUrl": "https://x.com/amrstech/status/2112631494099582992",
+      "publishedAt": "2026-10-20T19:46:13Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112631494099582992-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112631494099582992-video.mp4",
+      "durationSeconds": 30.06,
+      "note": "Post: OMG 😱 @fal really cooked with this one ! Just with text-to-video , it was very easy to create a simple ad with FLUX 3 Max !! Try it now !"
+    },
+    {
+      "id": "patch-gg-325861",
+      "title": "Live Retargeting onto Any Mixamo Character",
+      "titleZh": "实时重定向到任意 Mixamo 角色",
+      "category": "3d",
+      "author": {
+        "name": "Patch",
+        "handle": "patch_gg",
+        "url": "https://x.com/patch_gg"
+      },
+      "sourceUrl": "https://x.com/patch_gg/status/2112456000452325861",
+      "publishedAt": "2026-10-20T08:08:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112456000452325861-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112456000452325861-video.mp4",
+      "durationSeconds": 18.37,
+      "note": "Post: with FLUX 3 Max + GVHMR, you can get any animation retargeted LIVE onto any Mixamo character!  Try it out:"
+    }
+  ]
+}
