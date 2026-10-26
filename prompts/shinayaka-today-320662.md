@@ -1,0 +1,23 @@
+# Sailboat Jigsaw on a Rainy Week
+
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114346968382320662-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-320662)
+
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-320662)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114346968382320662-video.mp4) · [Source post](https://x.com/shinayaka_today/status/2114346968382320662)
+
+- Author / credit: やか | yaka (@shinayaka_today)
+- Duration: 15.05 seconds
+- Prompt status: `not_published_in_reviewed_sources`
+
+> Post: 今週はずっと雨らしい☔  10/25 ⛵️🧩 FLUX 3 Max
+
+## Prompt
+
+The creator did not publish an exact prompt in the sources reviewed for this entry.
+
+## Sources & attribution
+
+- [やか | yaka](https://x.com/shinayaka_today) — [source post](https://x.com/shinayaka_today/status/2114346968382320662)
+
+Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
+
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

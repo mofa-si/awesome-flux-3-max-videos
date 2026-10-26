@@ -7,7 +7,7 @@
   "description": "A curated collection of FLUX 3 Max (fal × Black Forest Labs) videos shared on X — short films, anime, music & dance, voices, prompt-to-3D motion and same-prompt model comparisons — with original files, creator credits and verbatim public prompts.",
   "descriptionZh": "收集 X 上的 FLUX 3 Max（fal × Black Forest Labs）视频作品：短片、动画、音乐与舞蹈、配音对白、提示词转 3D 动作，以及同提示词模型对比；附原视频文件、创作者署名和公开的原文提示词。",
   "model": "FLUX 3 Max",
-  "collectedOn": "2026-10-24",
+  "collectedOn": "2026-10-26",
   "publicationCutoffUtc": "2026-10-19T18:00:00Z",
   "maxDurationSeconds": 120,
   "topics": [
@@ -1556,6 +1556,25 @@
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112456000452325861-video.mp4",
       "durationSeconds": 18.37,
       "note": "Post: with FLUX 3 Max + GVHMR, you can get any animation retargeted LIVE onto any Mixamo character!  Try it out:"
+    },
+    {
+      "id": "shinayaka-today-320662",
+      "title": "Sailboat Jigsaw on a Rainy Week",
+      "titleZh": "雨天一周的帆船拼图",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2114346968382320662",
+      "publishedAt": "2026-10-25T13:22:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114346968382320662-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114346968382320662-video.mp4",
+      "durationSeconds": 15.05,
+      "note": "Post: 今週はずっと雨らしい☔  10/25 ⛵️🧩 FLUX 3 Max"
     }
   ]
 }
