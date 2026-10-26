@@ -1,8 +1,8 @@
 # 1985 Horror Trailer: Frames
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=misslaidlaw-259539)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-preview.webp)](https://suno.bi/prompts/flux-3-max/misslaidlaw-259539?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=misslaidlaw-259539)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=misslaidlaw-259539)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-video.mp4) · [Source post](https://x.com/misslaidlaw/status/2112532213879259539)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max/misslaidlaw-259539?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=misslaidlaw-259539)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112532213879259539-video.mp4) · [Source post](https://x.com/misslaidlaw/status/2112532213879259539)
 
 - Author / credit: Afro Futcha ( Diane ) (@misslaidlaw)
 - Duration: 20.11 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/misslaidlaw/status/2112532213879259539
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

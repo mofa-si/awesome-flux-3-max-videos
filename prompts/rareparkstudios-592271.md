@@ -1,8 +1,8 @@
 # Three Hyperreal UGC Ads
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=rareparkstudios-592271)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-preview.webp)](https://suno.bi/prompts/flux-3-max/rareparkstudios-592271?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=rareparkstudios-592271)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=rareparkstudios-592271)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-video.mp4) · [Source post](https://x.com/RareParkStudios/status/2112513581891592271)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max/rareparkstudios-592271?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=rareparkstudios-592271)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112513581891592271-video.mp4) · [Source post](https://x.com/RareParkStudios/status/2112513581891592271)
 
 - Author / credit: Uthsav Meda (@RareParkStudios)
 - Duration: 13.10 seconds
@@ -209,4 +209,4 @@ Prompt source: https://x.com/RareParkStudios/status/2112513768538452369
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

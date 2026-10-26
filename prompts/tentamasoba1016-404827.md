@@ -1,8 +1,8 @@
 # Edo Samurai in a Bamboo Grove
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=tentamasoba1016-404827)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-preview.webp)](https://suno.bi/prompts/flux-3-max/tentamasoba1016-404827?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=tentamasoba1016-404827)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=tentamasoba1016-404827)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-video.mp4) · [Source post](https://x.com/Tentamasoba1016/status/2113872027522404827)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max/tentamasoba1016-404827?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=tentamasoba1016-404827)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113872027522404827-video.mp4) · [Source post](https://x.com/Tentamasoba1016/status/2113872027522404827)
 
 - Author / credit: gamaccho | artist (@Tentamasoba1016)
 - Duration: 10.10 seconds
@@ -40,4 +40,4 @@ Prompt source: https://x.com/Tentamasoba1016/status/2113872465713860966
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

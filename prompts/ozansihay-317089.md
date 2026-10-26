@@ -1,8 +1,8 @@
 # Anatolian Village Camcorder Interviews
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=ozansihay-317089)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-preview.webp)](https://suno.bi/prompts/flux-3-max/ozansihay-317089?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=ozansihay-317089)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=ozansihay-317089)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-video.mp4) · [Source post](https://x.com/ozansihay/status/2112294040595317089)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max/ozansihay-317089?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=ozansihay-317089)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112294040595317089-video.mp4) · [Source post](https://x.com/ozansihay/status/2112294040595317089)
 
 - Author / credit: Ozan Sihay (@ozansihay)
 - Duration: 20.11 seconds
@@ -36,4 +36,4 @@ Prompt source: https://x.com/ozansihay/status/2112294040595317089
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

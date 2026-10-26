@@ -1,8 +1,8 @@
 # Dragon Crossing Snowy Mountains
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=taziku-co-429723)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=taziku-co-429723#cinematic)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=taziku-co-429723)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-video.mp4) · [Source post](https://x.com/taziku_co/status/2113281877960429723)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=taziku-co-429723#cinematic)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113281877960429723-video.mp4) · [Source post](https://x.com/taziku_co/status/2113281877960429723)
 
 - Author / credit: 田中義弘 | taziku CEO / AI × Creative (@taziku_co)
 - Duration: 7.00 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

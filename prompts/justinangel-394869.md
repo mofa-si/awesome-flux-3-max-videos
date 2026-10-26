@@ -1,8 +1,8 @@
 # FLUX 3 vs FLUX 3 Max on the Same Prompt
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=justinangel-394869)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=justinangel-394869#comparison)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=justinangel-394869)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-video.mp4) · [Source post](https://x.com/JustinAngel/status/2112263777882394869)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=justinangel-394869#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112263777882394869-video.mp4) · [Source post](https://x.com/JustinAngel/status/2112263777882394869)
 
 - Author / credit: Justin Angel (@JustinAngel)
 - Duration: 22.15 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

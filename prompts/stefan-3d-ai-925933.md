@@ -1,8 +1,8 @@
 # Prompt2Rig: Type a Motion, Get a Rig
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=stefan-3d-ai-925933)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=stefan-3d-ai-925933#3d)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=stefan-3d-ai-925933)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-video.mp4) · [Source post](https://x.com/Stefan_3D_AI/status/2112507522510925933)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=stefan-3d-ai-925933#3d)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112507522510925933-video.mp4) · [Source post](https://x.com/Stefan_3D_AI/status/2112507522510925933)
 
 - Author / credit: Stefan 3D AI (@Stefan_3D_AI)
 - Duration: 49.97 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

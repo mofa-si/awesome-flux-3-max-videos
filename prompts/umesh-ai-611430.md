@@ -1,8 +1,8 @@
 # Yellow Rain Boots Horror Sequence
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=umesh-ai-611430)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-preview.webp)](https://suno.bi/prompts/flux-3-max/umesh-ai-611430?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=umesh-ai-611430)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=umesh-ai-611430)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-video.mp4) · [Source post](https://x.com/umesh_ai/status/2112275364806611430)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max/umesh-ai-611430?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=umesh-ai-611430)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112275364806611430-video.mp4) · [Source post](https://x.com/umesh_ai/status/2112275364806611430)
 
 - Author / credit: Umesh (@umesh_ai)
 - Duration: 15.09 seconds
@@ -90,4 +90,4 @@ Prompt source: https://x.com/umesh_ai/status/2112275370045268380
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

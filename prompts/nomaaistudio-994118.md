@@ -1,8 +1,8 @@
 # Same Prompt: FLUX 3 Max vs Seedance 2.5 with Kiti
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=nomaaistudio-994118)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=nomaaistudio-994118#comparison)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=nomaaistudio-994118)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-video.mp4) · [Source post](https://x.com/nomaaistudio/status/2113418803807994118)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=nomaaistudio-994118#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113418803807994118-video.mp4) · [Source post](https://x.com/nomaaistudio/status/2113418803807994118)
 
 - Author / credit: NoMa Studio AI (@nomaaistudio)
 - Duration: 24.29 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

@@ -1,8 +1,8 @@
 # Never Bet Against Me
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=aden-gomes23-664452)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=aden-gomes23-664452#cinematic)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=aden-gomes23-664452)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-video.mp4) · [Source post](https://x.com/aden_gomes23/status/2112353180130664452)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=aden-gomes23-664452#cinematic)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112353180130664452-video.mp4) · [Source post](https://x.com/aden_gomes23/status/2112353180130664452)
 
 - Author / credit: Aden Gomes (@aden_gomes23)
 - Duration: 20.11 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

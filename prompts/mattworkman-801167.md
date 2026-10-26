@@ -1,8 +1,8 @@
 # The AI Weatherman Format
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=mattworkman-801167)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=mattworkman-801167#story)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=mattworkman-801167)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-video.mp4) · [Source post](https://x.com/mattworkman/status/2112321605401801167)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=mattworkman-801167#story)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112321605401801167-video.mp4) · [Source post](https://x.com/mattworkman/status/2112321605401801167)
 
 - Author / credit: Matt Workman (@mattworkman)
 - Duration: 71.91 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

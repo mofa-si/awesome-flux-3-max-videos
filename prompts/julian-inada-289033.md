@@ -1,8 +1,8 @@
 # Raccoon and Robot Coffee Break
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=julian-inada-289033)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=julian-inada-289033#cinematic)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=julian-inada-289033)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-video.mp4) · [Source post](https://x.com/julian_inada/status/2112588945234289033)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=julian-inada-289033#cinematic)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2112588945234289033-video.mp4) · [Source post](https://x.com/julian_inada/status/2112588945234289033)
 
 - Author / credit: Julian · Media AI (@julian_inada)
 - Duration: 10.09 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

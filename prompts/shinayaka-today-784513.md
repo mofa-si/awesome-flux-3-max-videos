@@ -1,8 +1,8 @@
 # Flowers for an Early Character Design
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-preview.webp)](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-784513)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-preview.webp)](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-784513#anime)
 
-**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-784513)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-video.mp4) · [Source post](https://x.com/shinayaka_today/status/2113646524135784513)
+**[▶ Turn your song into a music video with FLUX 3 Max on SunoMV](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos&utm_content=shinayaka-today-784513#anime)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2113646524135784513-video.mp4) · [Source post](https://x.com/shinayaka_today/status/2113646524135784513)
 
 - Author / credit: やか | yaka (@shinayaka_today)
 - Duration: 15.08 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More FLUX 3 Max work on SunoMV →](https://suno.bi/ai-music-video-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)
+[More FLUX 3 Max work on SunoMV →](https://suno.bi/prompts/flux-3-max?utm_source=github&utm_medium=readme&utm_campaign=awesome-flux-3-max-videos)

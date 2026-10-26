@@ -27,7 +27,8 @@
     "landingUrl": "https://suno.bi/ai-music-video-generator",
     "landingUrlZh": "https://suno.bi/zh/ai-music-video-generator",
     "cta": "Turn your song into a music video with FLUX 3 Max on SunoMV",
-    "ctaZh": "在 SunoMV 用 FLUX 3 Max 把你的歌做成 MV"
+    "ctaZh": "在 SunoMV 用 FLUX 3 Max 把你的歌做成 MV",
+    "pagesUrl": "https://suno.bi/prompts/flux-3-max"
   },
   "mediaHosts": [
     "bibigpt-apps.chatvid.ai"
