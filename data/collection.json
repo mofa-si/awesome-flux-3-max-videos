@@ -1576,6 +1576,25 @@
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114346968382320662-video.mp4",
       "durationSeconds": 15.05,
       "note": "Post: 今週はずっと雨らしい☔  10/25 ⛵️🧩 FLUX 3 Max"
+    },
+    {
+      "id": "shinayaka-today-507676",
+      "title": "Shipping an App to TestFlight",
+      "titleZh": "App 终于传上 TestFlight",
+      "category": "anime",
+      "author": {
+        "name": "やか | yaka",
+        "handle": "shinayaka_today",
+        "url": "https://x.com/shinayaka_today"
+      },
+      "sourceUrl": "https://x.com/shinayaka_today/status/2114651287887507676",
+      "publishedAt": "2026-10-26T09:32:10Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114651287887507676-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/flux-3-max/2114651287887507676-video.mp4",
+      "durationSeconds": 15.08,
+      "note": "Post: 最近しいなさんとiOSアプリつくっていて、やっとTestFlightのせるところまでいったよー！  10/26 🎮 GPT2.5 Images => FLUX 3 Max"
     }
   ]
 }
